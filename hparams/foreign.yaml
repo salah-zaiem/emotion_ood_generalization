@@ -31,7 +31,7 @@ csv_folder: csvs/
 # Path where data manifest files will be stored
 train_annotation: !ref <csv_folder>/train.json
 valid_annotation: !ref <csv_folder>/valid.json
-test_annotation: /gpfsscratch/rech/nou/uzn19yk/emotion_foreign/asvp.json
+test_annotation: !ref <csv_folder>/arabic_emotion.json
 
 
 

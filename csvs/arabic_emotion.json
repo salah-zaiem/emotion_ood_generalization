@@ -1,0 +1,5362 @@
+{
+  "V4-21": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V4-21.wav",
+    "length": 0.966530612244898,
+    "emo": "ang"
+  },
+  "V4-41": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V4-41.wav",
+    "length": 0.966530612244898,
+    "emo": "ang"
+  },
+  "V4-42": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V4-42.wav",
+    "length": 0.966530612244898,
+    "emo": "ang"
+  },
+  "V4-43": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V4-43.wav",
+    "length": 0.966530612244898,
+    "emo": "ang"
+  },
+  "V4-61": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V4-61.wav",
+    "length": 0.966530612244898,
+    "emo": "ang"
+  },
+  "V4-62": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V4-62.wav",
+    "length": 0.966530612244898,
+    "emo": "ang"
+  },
+  "V4-63": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V4-63.wav",
+    "length": 0.966530612244898,
+    "emo": "ang"
+  },
+  "V4-64": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V4-64.wav",
+    "length": 0.966530612244898,
+    "emo": "ang"
+  },
+  "V4-65": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V4-65.wav",
+    "length": 0.966530612244898,
+    "emo": "ang"
+  },
+  "V4-66": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V4-66.wav",
+    "length": 0.966530612244898,
+    "emo": "ang"
+  },
+  "V4-67": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V4-67.wav",
+    "length": 0.966530612244898,
+    "emo": "ang"
+  },
+  "V4-68": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V4-68.wav",
+    "length": 0.966530612244898,
+    "emo": "ang"
+  },
+  "V4-69": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V4-69.wav",
+    "length": 0.966530612244898,
+    "emo": "ang"
+  },
+  "V4-610": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V4-610.wav",
+    "length": 0.966530612244898,
+    "emo": "ang"
+  },
+  "V4-611": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V4-611.wav",
+    "length": 0.966530612244898,
+    "emo": "ang"
+  },
+  "V4-612": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V4-612.wav",
+    "length": 0.966530612244898,
+    "emo": "ang"
+  },
+  "V4-613": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V4-613.wav",
+    "length": 0.966530612244898,
+    "emo": "ang"
+  },
+  "V4-614": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V4-614.wav",
+    "length": 0.966530612244898,
+    "emo": "ang"
+  },
+  "V4-615": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V4-615.wav",
+    "length": 0.966530612244898,
+    "emo": "ang"
+  },
+  "V4-616": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V4-616.wav",
+    "length": 0.966530612244898,
+    "emo": "ang"
+  },
+  "V4-81": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V4-81.wav",
+    "length": 0.966530612244898,
+    "emo": "ang"
+  },
+  "V4-82": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V4-82.wav",
+    "length": 0.966530612244898,
+    "emo": "ang"
+  },
+  "V4-83": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V4-83.wav",
+    "length": 0.966530612244898,
+    "emo": "ang"
+  },
+  "V4-84": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V4-84.wav",
+    "length": 0.966530612244898,
+    "emo": "ang"
+  },
+  "V4-85": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V4-85.wav",
+    "length": 0.966530612244898,
+    "emo": "ang"
+  },
+  "V4-86": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V4-86.wav",
+    "length": 0.966530612244898,
+    "emo": "ang"
+  },
+  "V4-87": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V4-87.wav",
+    "length": 0.966530612244898,
+    "emo": "ang"
+  },
+  "V4-88": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V4-88.wav",
+    "length": 0.966530612244898,
+    "emo": "ang"
+  },
+  "V4-89": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V4-89.wav",
+    "length": 0.966530612244898,
+    "emo": "ang"
+  },
+  "V4-810": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V4-810.wav",
+    "length": 0.966530612244898,
+    "emo": "ang"
+  },
+  "V4-811": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V4-811.wav",
+    "length": 0.966530612244898,
+    "emo": "ang"
+  },
+  "V4-812": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V4-812.wav",
+    "length": 0.966530612244898,
+    "emo": "ang"
+  },
+  "V4-813": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V4-813.wav",
+    "length": 0.966530612244898,
+    "emo": "ang"
+  },
+  "V4-814": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V4-814.wav",
+    "length": 0.966530612244898,
+    "emo": "ang"
+  },
+  "V4-815": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V4-815.wav",
+    "length": 0.966530612244898,
+    "emo": "ang"
+  },
+  "V4-816": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V4-816.wav",
+    "length": 0.966530612244898,
+    "emo": "ang"
+  },
+  "V4-817": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V4-817.wav",
+    "length": 0.966530612244898,
+    "emo": "ang"
+  },
+  "V4-818": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V4-818.wav",
+    "length": 0.966530612244898,
+    "emo": "ang"
+  },
+  "V4-819": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V4-819.wav",
+    "length": 0.966530612244898,
+    "emo": "ang"
+  },
+  "V4-820": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V4-820.wav",
+    "length": 0.966530612244898,
+    "emo": "ang"
+  },
+  "V4-821": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V4-821.wav",
+    "length": 0.966530612244898,
+    "emo": "ang"
+  },
+  "V4-822": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V4-822.wav",
+    "length": 0.966530612244898,
+    "emo": "ang"
+  },
+  "V4-823": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V4-823.wav",
+    "length": 0.966530612244898,
+    "emo": "ang"
+  },
+  "V4-824": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V4-824.wav",
+    "length": 0.966530612244898,
+    "emo": "ang"
+  },
+  "V4-825": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V4-825.wav",
+    "length": 0.966530612244898,
+    "emo": "ang"
+  },
+  "V4-826": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V4-826.wav",
+    "length": 0.966530612244898,
+    "emo": "ang"
+  },
+  "V4-827": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V4-827.wav",
+    "length": 0.966530612244898,
+    "emo": "ang"
+  },
+  "V4-828": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V4-828.wav",
+    "length": 0.966530612244898,
+    "emo": "ang"
+  },
+  "V4-829": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V4-829.wav",
+    "length": 0.966530612244898,
+    "emo": "ang"
+  },
+  "V4-830": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V4-830.wav",
+    "length": 0.966530612244898,
+    "emo": "ang"
+  },
+  "V4-831": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V4-831.wav",
+    "length": 0.966530612244898,
+    "emo": "ang"
+  },
+  "V4-832": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V4-832.wav",
+    "length": 0.966530612244898,
+    "emo": "ang"
+  },
+  "V4-833": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V4-833.wav",
+    "length": 0.966530612244898,
+    "emo": "ang"
+  },
+  "V4-834": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V4-834.wav",
+    "length": 0.966530612244898,
+    "emo": "ang"
+  },
+  "V4-835": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V4-835.wav",
+    "length": 0.966530612244898,
+    "emo": "ang"
+  },
+  "V4-836": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V4-836.wav",
+    "length": 0.966530612244898,
+    "emo": "ang"
+  },
+  "V4-837": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V4-837.wav",
+    "length": 0.966530612244898,
+    "emo": "ang"
+  },
+  "V4-838": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V4-838.wav",
+    "length": 0.966530612244898,
+    "emo": "ang"
+  },
+  "V4-839": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V4-839.wav",
+    "length": 0.966530612244898,
+    "emo": "ang"
+  },
+  "V4-840": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V4-840.wav",
+    "length": 0.966530612244898,
+    "emo": "ang"
+  },
+  "V4-841": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V4-841.wav",
+    "length": 0.966530612244898,
+    "emo": "ang"
+  },
+  "V4-842": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V4-842.wav",
+    "length": 0.966530612244898,
+    "emo": "ang"
+  },
+  "V4-843": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V4-843.wav",
+    "length": 0.966530612244898,
+    "emo": "ang"
+  },
+  "V4-844": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V4-844.wav",
+    "length": 0.966530612244898,
+    "emo": "ang"
+  },
+  "V4-845": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V4-845.wav",
+    "length": 0.966530612244898,
+    "emo": "ang"
+  },
+  "V4-846": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V4-846.wav",
+    "length": 0.966530612244898,
+    "emo": "ang"
+  },
+  "V4-847": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V4-847.wav",
+    "length": 0.966530612244898,
+    "emo": "ang"
+  },
+  "V4-848": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V4-848.wav",
+    "length": 0.966530612244898,
+    "emo": "ang"
+  },
+  "V4-849": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V4-849.wav",
+    "length": 0.966530612244898,
+    "emo": "ang"
+  },
+  "V4-850": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V4-850.wav",
+    "length": 0.966530612244898,
+    "emo": "ang"
+  },
+  "V4-851": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V4-851.wav",
+    "length": 0.966530612244898,
+    "emo": "ang"
+  },
+  "V4-852": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V4-852.wav",
+    "length": 0.966530612244898,
+    "emo": "ang"
+  },
+  "V4-853": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V4-853.wav",
+    "length": 0.966530612244898,
+    "emo": "ang"
+  },
+  "V4-854": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V4-854.wav",
+    "length": 0.966530612244898,
+    "emo": "ang"
+  },
+  "V4-855": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V4-855.wav",
+    "length": 0.966530612244898,
+    "emo": "ang"
+  },
+  "V4-856": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V4-856.wav",
+    "length": 0.966530612244898,
+    "emo": "ang"
+  },
+  "V4-857": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V4-857.wav",
+    "length": 0.966530612244898,
+    "emo": "ang"
+  },
+  "V4-858": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V4-858.wav",
+    "length": 0.966530612244898,
+    "emo": "ang"
+  },
+  "V4-859": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V4-859.wav",
+    "length": 0.966530612244898,
+    "emo": "ang"
+  },
+  "V4-860": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V4-860.wav",
+    "length": 0.966530612244898,
+    "emo": "ang"
+  },
+  "V4-861": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V4-861.wav",
+    "length": 0.966530612244898,
+    "emo": "ang"
+  },
+  "V4-862": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V4-862.wav",
+    "length": 0.966530612244898,
+    "emo": "ang"
+  },
+  "V4-863": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V4-863.wav",
+    "length": 0.966530612244898,
+    "emo": "ang"
+  },
+  "V4-864": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V4-864.wav",
+    "length": 0.966530612244898,
+    "emo": "ang"
+  },
+  "V4-865": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V4-865.wav",
+    "length": 0.966530612244898,
+    "emo": "ang"
+  },
+  "V4-866": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V4-866.wav",
+    "length": 0.966530612244898,
+    "emo": "ang"
+  },
+  "V4-867": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V4-867.wav",
+    "length": 0.966530612244898,
+    "emo": "ang"
+  },
+  "V4-868": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V4-868.wav",
+    "length": 0.966530612244898,
+    "emo": "ang"
+  },
+  "V4-869": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V4-869.wav",
+    "length": 0.966530612244898,
+    "emo": "ang"
+  },
+  "V4-870": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V4-870.wav",
+    "length": 0.966530612244898,
+    "emo": "ang"
+  },
+  "V4-871": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V4-871.wav",
+    "length": 0.966530612244898,
+    "emo": "ang"
+  },
+  "V4-872": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V4-872.wav",
+    "length": 0.966530612244898,
+    "emo": "ang"
+  },
+  "V4-873": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V4-873.wav",
+    "length": 0.966530612244898,
+    "emo": "ang"
+  },
+  "V4-874": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V4-874.wav",
+    "length": 0.966530612244898,
+    "emo": "ang"
+  },
+  "V4-875": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V4-875.wav",
+    "length": 0.966530612244898,
+    "emo": "ang"
+  },
+  "V4-876": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V4-876.wav",
+    "length": 0.966530612244898,
+    "emo": "ang"
+  },
+  "V4-877": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V4-877.wav",
+    "length": 0.966530612244898,
+    "emo": "ang"
+  },
+  "V4-878": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V4-878.wav",
+    "length": 0.966530612244898,
+    "emo": "ang"
+  },
+  "V4-879": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V4-879.wav",
+    "length": 0.966530612244898,
+    "emo": "ang"
+  },
+  "V4-880": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V4-880.wav",
+    "length": 0.966530612244898,
+    "emo": "ang"
+  },
+  "V4-881": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V4-881.wav",
+    "length": 0.966530612244898,
+    "emo": "ang"
+  },
+  "V4-882": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V4-882.wav",
+    "length": 0.966530612244898,
+    "emo": "ang"
+  },
+  "V4-883": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V4-883.wav",
+    "length": 0.966530612244898,
+    "emo": "ang"
+  },
+  "V4-884": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V4-884.wav",
+    "length": 0.966530612244898,
+    "emo": "ang"
+  },
+  "V4-885": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V4-885.wav",
+    "length": 0.966530612244898,
+    "emo": "ang"
+  },
+  "V4-886": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V4-886.wav",
+    "length": 0.966530612244898,
+    "emo": "ang"
+  },
+  "V4-887": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V4-887.wav",
+    "length": 0.966530612244898,
+    "emo": "ang"
+  },
+  "V4-888": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V4-888.wav",
+    "length": 0.966530612244898,
+    "emo": "ang"
+  },
+  "V4-889": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V4-889.wav",
+    "length": 0.966530612244898,
+    "emo": "ang"
+  },
+  "V4-890": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V4-890.wav",
+    "length": 0.966530612244898,
+    "emo": "ang"
+  },
+  "V4-891": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V4-891.wav",
+    "length": 0.966530612244898,
+    "emo": "ang"
+  },
+  "V4-892": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V4-892.wav",
+    "length": 0.966530612244898,
+    "emo": "ang"
+  },
+  "V4-893": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V4-893.wav",
+    "length": 0.966530612244898,
+    "emo": "ang"
+  },
+  "V4-894": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V4-894.wav",
+    "length": 0.966530612244898,
+    "emo": "ang"
+  },
+  "V4-896": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V4-896.wav",
+    "length": 0.966530612244898,
+    "emo": "ang"
+  },
+  "V4-897": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V4-897.wav",
+    "length": 0.966530612244898,
+    "emo": "ang"
+  },
+  "V4-898": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V4-898.wav",
+    "length": 0.966530612244898,
+    "emo": "ang"
+  },
+  "V4-899": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V4-899.wav",
+    "length": 0.966530612244898,
+    "emo": "ang"
+  },
+  "V4-8100": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V4-8100.wav",
+    "length": 0.966530612244898,
+    "emo": "ang"
+  },
+  "V4-8101": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V4-8101.wav",
+    "length": 0.966530612244898,
+    "emo": "ang"
+  },
+  "V4-8102": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V4-8102.wav",
+    "length": 0.966530612244898,
+    "emo": "ang"
+  },
+  "V4-8103": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V4-8103.wav",
+    "length": 0.966530612244898,
+    "emo": "ang"
+  },
+  "V4-8104": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V4-8104.wav",
+    "length": 0.966530612244898,
+    "emo": "ang"
+  },
+  "V4-101": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V4-101.wav",
+    "length": 0.966530612244898,
+    "emo": "ang"
+  },
+  "V4-102": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V4-102.wav",
+    "length": 0.966530612244898,
+    "emo": "ang"
+  },
+  "V4-103": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V4-103.wav",
+    "length": 0.966530612244898,
+    "emo": "ang"
+  },
+  "V4-104": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V4-104.wav",
+    "length": 0.966530612244898,
+    "emo": "ang"
+  },
+  "V4-105": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V4-105.wav",
+    "length": 0.966530612244898,
+    "emo": "ang"
+  },
+  "V4-106": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V4-106.wav",
+    "length": 0.966530612244898,
+    "emo": "ang"
+  },
+  "V4-107": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V4-107.wav",
+    "length": 0.966530612244898,
+    "emo": "ang"
+  },
+  "V4-108": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V4-108.wav",
+    "length": 0.966530612244898,
+    "emo": "ang"
+  },
+  "V4-109": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V4-109.wav",
+    "length": 0.966530612244898,
+    "emo": "ang"
+  },
+  "V4-1010": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V4-1010.wav",
+    "length": 0.966530612244898,
+    "emo": "ang"
+  },
+  "V4-1011": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V4-1011.wav",
+    "length": 0.966530612244898,
+    "emo": "ang"
+  },
+  "V4-1012": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V4-1012.wav",
+    "length": 0.966530612244898,
+    "emo": "ang"
+  },
+  "V4-1013": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V4-1013.wav",
+    "length": 0.966530612244898,
+    "emo": "ang"
+  },
+  "V4-1014": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V4-1014.wav",
+    "length": 0.966530612244898,
+    "emo": "ang"
+  },
+  "V4-1015": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V4-1015.wav",
+    "length": 0.966530612244898,
+    "emo": "ang"
+  },
+  "V4-121": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V4-121.wav",
+    "length": 0.966530612244898,
+    "emo": "ang"
+  },
+  "V4-122": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V4-122.wav",
+    "length": 0.966530612244898,
+    "emo": "ang"
+  },
+  "V4-123": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V4-123.wav",
+    "length": 0.966530612244898,
+    "emo": "ang"
+  },
+  "V4-141": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V4-141.wav",
+    "length": 0.966530612244898,
+    "emo": "ang"
+  },
+  "V4-142": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V4-142.wav",
+    "length": 0.966530612244898,
+    "emo": "ang"
+  },
+  "V4-143": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V4-143.wav",
+    "length": 0.966530612244898,
+    "emo": "ang"
+  },
+  "V4-144": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V4-144.wav",
+    "length": 0.966530612244898,
+    "emo": "ang"
+  },
+  "V4-145": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V4-145.wav",
+    "length": 0.966530612244898,
+    "emo": "ang"
+  },
+  "V4-146": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V4-146.wav",
+    "length": 0.966530612244898,
+    "emo": "ang"
+  },
+  "V1_11": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V1_11.wav",
+    "length": 0.966530612244898,
+    "emo": "hap"
+  },
+  "V1_12": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V1_12.wav",
+    "length": 0.966530612244898,
+    "emo": "hap"
+  },
+  "V1_21": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V1_21.wav",
+    "length": 0.966530612244898,
+    "emo": "hap"
+  },
+  "V1_22": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V1_22.wav",
+    "length": 0.966530612244898,
+    "emo": "hap"
+  },
+  "V1_23": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V1_23.wav",
+    "length": 0.966530612244898,
+    "emo": "hap"
+  },
+  "V1_24": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V1_24.wav",
+    "length": 0.966530612244898,
+    "emo": "hap"
+  },
+  "V1_25": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V1_25.wav",
+    "length": 0.966530612244898,
+    "emo": "hap"
+  },
+  "V1_26": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V1_26.wav",
+    "length": 0.966530612244898,
+    "emo": "hap"
+  },
+  "V1_27": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V1_27.wav",
+    "length": 0.966530612244898,
+    "emo": "hap"
+  },
+  "V1_28": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V1_28.wav",
+    "length": 0.966530612244898,
+    "emo": "hap"
+  },
+  "V1_29": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V1_29.wav",
+    "length": 0.966530612244898,
+    "emo": "hap"
+  },
+  "V1_32": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V1_32.wav",
+    "length": 0.966530612244898,
+    "emo": "hap"
+  },
+  "V1_41": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V1_41.wav",
+    "length": 0.966530612244898,
+    "emo": "hap"
+  },
+  "V1_51": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V1_51.wav",
+    "length": 0.966530612244898,
+    "emo": "hap"
+  },
+  "V1_52": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V1_52.wav",
+    "length": 0.966530612244898,
+    "emo": "hap"
+  },
+  "V1_53": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V1_53.wav",
+    "length": 0.966530612244898,
+    "emo": "hap"
+  },
+  "V1_54": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V1_54.wav",
+    "length": 0.966530612244898,
+    "emo": "hap"
+  },
+  "V1_55": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V1_55.wav",
+    "length": 0.966530612244898,
+    "emo": "hap"
+  },
+  "V1_56": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V1_56.wav",
+    "length": 0.966530612244898,
+    "emo": "hap"
+  },
+  "V1_57": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V1_57.wav",
+    "length": 0.966530612244898,
+    "emo": "hap"
+  },
+  "V1_58": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V1_58.wav",
+    "length": 0.966530612244898,
+    "emo": "hap"
+  },
+  "V1_59": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V1_59.wav",
+    "length": 0.966530612244898,
+    "emo": "hap"
+  },
+  "V1_510": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V1_510.wav",
+    "length": 0.966530612244898,
+    "emo": "hap"
+  },
+  "V1_511": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V1_511.wav",
+    "length": 0.966530612244898,
+    "emo": "hap"
+  },
+  "V1_512": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V1_512.wav",
+    "length": 0.966530612244898,
+    "emo": "hap"
+  },
+  "V1_513": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V1_513.wav",
+    "length": 0.966530612244898,
+    "emo": "hap"
+  },
+  "V1_514": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V1_514.wav",
+    "length": 0.966530612244898,
+    "emo": "hap"
+  },
+  "V1_515": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V1_515.wav",
+    "length": 0.966530612244898,
+    "emo": "hap"
+  },
+  "V1_516": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V1_516.wav",
+    "length": 0.966530612244898,
+    "emo": "hap"
+  },
+  "V1_517": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V1_517.wav",
+    "length": 0.966530612244898,
+    "emo": "hap"
+  },
+  "V1_518": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V1_518.wav",
+    "length": 0.966530612244898,
+    "emo": "hap"
+  },
+  "V1_519": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V1_519.wav",
+    "length": 0.966530612244898,
+    "emo": "hap"
+  },
+  "V1_520": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V1_520.wav",
+    "length": 0.966530612244898,
+    "emo": "hap"
+  },
+  "V1_61": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V1_61.wav",
+    "length": 0.966530612244898,
+    "emo": "hap"
+  },
+  "V1_62": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V1_62.wav",
+    "length": 0.966530612244898,
+    "emo": "hap"
+  },
+  "V1_71": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V1_71.wav",
+    "length": 0.966530612244898,
+    "emo": "hap"
+  },
+  "V1_72": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V1_72.wav",
+    "length": 0.966530612244898,
+    "emo": "hap"
+  },
+  "V1_73": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V1_73.wav",
+    "length": 0.966530612244898,
+    "emo": "hap"
+  },
+  "V1_74": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V1_74.wav",
+    "length": 0.966530612244898,
+    "emo": "hap"
+  },
+  "V1_75": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V1_75.wav",
+    "length": 0.966530612244898,
+    "emo": "hap"
+  },
+  "V1_76": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V1_76.wav",
+    "length": 0.966530612244898,
+    "emo": "hap"
+  },
+  "V1_77": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V1_77.wav",
+    "length": 0.966530612244898,
+    "emo": "hap"
+  },
+  "V1_78": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V1_78.wav",
+    "length": 0.966530612244898,
+    "emo": "hap"
+  },
+  "V1_79": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V1_79.wav",
+    "length": 0.966530612244898,
+    "emo": "hap"
+  },
+  "V1_710": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V1_710.wav",
+    "length": 0.966530612244898,
+    "emo": "hap"
+  },
+  "V1_711": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V1_711.wav",
+    "length": 0.966530612244898,
+    "emo": "hap"
+  },
+  "V1_712": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V1_712.wav",
+    "length": 0.966530612244898,
+    "emo": "hap"
+  },
+  "V1_713": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V1_713.wav",
+    "length": 0.966530612244898,
+    "emo": "hap"
+  },
+  "V1_714": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V1_714.wav",
+    "length": 0.966530612244898,
+    "emo": "hap"
+  },
+  "V1_715": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V1_715.wav",
+    "length": 0.966530612244898,
+    "emo": "hap"
+  },
+  "V1_716": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V1_716.wav",
+    "length": 0.966530612244898,
+    "emo": "hap"
+  },
+  "V1_717": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V1_717.wav",
+    "length": 0.966530612244898,
+    "emo": "hap"
+  },
+  "V1_718": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V1_718.wav",
+    "length": 0.966530612244898,
+    "emo": "hap"
+  },
+  "V1_719": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V1_719.wav",
+    "length": 0.966530612244898,
+    "emo": "hap"
+  },
+  "V1_720": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V1_720.wav",
+    "length": 0.966530612244898,
+    "emo": "hap"
+  },
+  "V1_721": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V1_721.wav",
+    "length": 0.966530612244898,
+    "emo": "hap"
+  },
+  "V1_722": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V1_722.wav",
+    "length": 0.966530612244898,
+    "emo": "hap"
+  },
+  "V1_723": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V1_723.wav",
+    "length": 0.966530612244898,
+    "emo": "hap"
+  },
+  "V1_724": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V1_724.wav",
+    "length": 0.966530612244898,
+    "emo": "hap"
+  },
+  "V1_725": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V1_725.wav",
+    "length": 0.966530612244898,
+    "emo": "hap"
+  },
+  "V1_726": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V1_726.wav",
+    "length": 0.966530612244898,
+    "emo": "hap"
+  },
+  "V1_81": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V1_81.wav",
+    "length": 0.966530612244898,
+    "emo": "hap"
+  },
+  "V1_82": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V1_82.wav",
+    "length": 0.966530612244898,
+    "emo": "hap"
+  },
+  "V1_92": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V1_92.wav",
+    "length": 0.966530612244898,
+    "emo": "hap"
+  },
+  "V1_91": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V1_91.wav",
+    "length": 0.966530612244898,
+    "emo": "hap"
+  },
+  "V3_11": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V3_11.wav",
+    "length": 0.966530612244898,
+    "emo": "hap"
+  },
+  "V3_12": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V3_12.wav",
+    "length": 0.966530612244898,
+    "emo": "hap"
+  },
+  "V3_13": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V3_13.wav",
+    "length": 0.966530612244898,
+    "emo": "hap"
+  },
+  "V3_14": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V3_14.wav",
+    "length": 0.966530612244898,
+    "emo": "hap"
+  },
+  "V3_15": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V3_15.wav",
+    "length": 0.966530612244898,
+    "emo": "hap"
+  },
+  "V3_16": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V3_16.wav",
+    "length": 0.966530612244898,
+    "emo": "hap"
+  },
+  "V3_17": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V3_17.wav",
+    "length": 0.966530612244898,
+    "emo": "hap"
+  },
+  "V3_18": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V3_18.wav",
+    "length": 0.966530612244898,
+    "emo": "hap"
+  },
+  "V3_19": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V3_19.wav",
+    "length": 0.966530612244898,
+    "emo": "hap"
+  },
+  "V3_110": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V3_110.wav",
+    "length": 0.966530612244898,
+    "emo": "hap"
+  },
+  "V3_111": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V3_111.wav",
+    "length": 0.966530612244898,
+    "emo": "hap"
+  },
+  "V3_112": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V3_112.wav",
+    "length": 0.966530612244898,
+    "emo": "hap"
+  },
+  "V3_113": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V3_113.wav",
+    "length": 0.966530612244898,
+    "emo": "hap"
+  },
+  "V3_114": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V3_114.wav",
+    "length": 0.966530612244898,
+    "emo": "hap"
+  },
+  "V3_115": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V3_115.wav",
+    "length": 0.966530612244898,
+    "emo": "hap"
+  },
+  "V3_116": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V3_116.wav",
+    "length": 0.966530612244898,
+    "emo": "hap"
+  },
+  "V3_31": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V3_31.wav",
+    "length": 0.966530612244898,
+    "emo": "hap"
+  },
+  "V3_32": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V3_32.wav",
+    "length": 0.966530612244898,
+    "emo": "hap"
+  },
+  "V3_33": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V3_33.wav",
+    "length": 0.966530612244898,
+    "emo": "hap"
+  },
+  "V3_41": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V3_41.wav",
+    "length": 0.966530612244898,
+    "emo": "hap"
+  },
+  "V3_42": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V3_42.wav",
+    "length": 0.966530612244898,
+    "emo": "hap"
+  },
+  "V3_43": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V3_43.wav",
+    "length": 0.966530612244898,
+    "emo": "hap"
+  },
+  "V3_44": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V3_44.wav",
+    "length": 0.966530612244898,
+    "emo": "hap"
+  },
+  "V3_45": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V3_45.wav",
+    "length": 0.966530612244898,
+    "emo": "hap"
+  },
+  "V3_46": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V3_46.wav",
+    "length": 0.966530612244898,
+    "emo": "hap"
+  },
+  "V3_47": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V3_47.wav",
+    "length": 0.966530612244898,
+    "emo": "hap"
+  },
+  "V3_48": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V3_48.wav",
+    "length": 0.966530612244898,
+    "emo": "hap"
+  },
+  "V3_49": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V3_49.wav",
+    "length": 0.966530612244898,
+    "emo": "hap"
+  },
+  "V3_410": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V3_410.wav",
+    "length": 0.966530612244898,
+    "emo": "hap"
+  },
+  "V3_411": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V3_411.wav",
+    "length": 0.966530612244898,
+    "emo": "hap"
+  },
+  "V3_412": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V3_412.wav",
+    "length": 0.966530612244898,
+    "emo": "hap"
+  },
+  "V3_413": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V3_413.wav",
+    "length": 0.966530612244898,
+    "emo": "hap"
+  },
+  "V3_414": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V3_414.wav",
+    "length": 0.966530612244898,
+    "emo": "hap"
+  },
+  "V3_415": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V3_415.wav",
+    "length": 0.966530612244898,
+    "emo": "hap"
+  },
+  "V3_416": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V3_416.wav",
+    "length": 0.966530612244898,
+    "emo": "hap"
+  },
+  "V3_51": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V3_51.wav",
+    "length": 0.966530612244898,
+    "emo": "hap"
+  },
+  "V3_52": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V3_52.wav",
+    "length": 0.966530612244898,
+    "emo": "hap"
+  },
+  "V3_53": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V3_53.wav",
+    "length": 0.966530612244898,
+    "emo": "hap"
+  },
+  "V3_54": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V3_54.wav",
+    "length": 0.966530612244898,
+    "emo": "hap"
+  },
+  "V3_55": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V3_55.wav",
+    "length": 0.966530612244898,
+    "emo": "hap"
+  },
+  "V3_56": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V3_56.wav",
+    "length": 0.966530612244898,
+    "emo": "hap"
+  },
+  "V3_61": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V3_61.wav",
+    "length": 0.966530612244898,
+    "emo": "hap"
+  },
+  "V3_62": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V3_62.wav",
+    "length": 0.966530612244898,
+    "emo": "hap"
+  },
+  "V3_63": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V3_63.wav",
+    "length": 0.966530612244898,
+    "emo": "hap"
+  },
+  "V3_64": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V3_64.wav",
+    "length": 0.966530612244898,
+    "emo": "hap"
+  },
+  "V3_65": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V3_65.wav",
+    "length": 0.966530612244898,
+    "emo": "hap"
+  },
+  "V3_66": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V3_66.wav",
+    "length": 0.966530612244898,
+    "emo": "hap"
+  },
+  "V3_67": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V3_67.wav",
+    "length": 0.966530612244898,
+    "emo": "hap"
+  },
+  "V3_68": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V3_68.wav",
+    "length": 0.966530612244898,
+    "emo": "hap"
+  },
+  "V3_69": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V3_69.wav",
+    "length": 0.966530612244898,
+    "emo": "hap"
+  },
+  "V3_610": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V3_610.wav",
+    "length": 0.966530612244898,
+    "emo": "hap"
+  },
+  "V3_611": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V3_611.wav",
+    "length": 0.966530612244898,
+    "emo": "hap"
+  },
+  "V3_612": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V3_612.wav",
+    "length": 0.966530612244898,
+    "emo": "hap"
+  },
+  "V3_613": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V3_613.wav",
+    "length": 0.966530612244898,
+    "emo": "hap"
+  },
+  "V3_614": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V3_614.wav",
+    "length": 0.966530612244898,
+    "emo": "hap"
+  },
+  "V3_615": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V3_615.wav",
+    "length": 0.966530612244898,
+    "emo": "hap"
+  },
+  "V3_616": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V3_616.wav",
+    "length": 0.966530612244898,
+    "emo": "hap"
+  },
+  "V3_617": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V3_617.wav",
+    "length": 0.966530612244898,
+    "emo": "hap"
+  },
+  "V3_618": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V3_618.wav",
+    "length": 0.966530612244898,
+    "emo": "hap"
+  },
+  "V3_619": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V3_619.wav",
+    "length": 0.966530612244898,
+    "emo": "hap"
+  },
+  "V3_620": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V3_620.wav",
+    "length": 0.966530612244898,
+    "emo": "hap"
+  },
+  "V3_621": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V3_621.wav",
+    "length": 0.966530612244898,
+    "emo": "hap"
+  },
+  "V3_622": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V3_622.wav",
+    "length": 0.966530612244898,
+    "emo": "hap"
+  },
+  "V3_623": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V3_623.wav",
+    "length": 0.966530612244898,
+    "emo": "hap"
+  },
+  "V3_624": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V3_624.wav",
+    "length": 0.966530612244898,
+    "emo": "hap"
+  },
+  "V3_625": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V3_625.wav",
+    "length": 0.966530612244898,
+    "emo": "hap"
+  },
+  "V3_626": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V3_626.wav",
+    "length": 0.966530612244898,
+    "emo": "hap"
+  },
+  "V3_627": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V3_627.wav",
+    "length": 0.966530612244898,
+    "emo": "hap"
+  },
+  "V3_628": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V3_628.wav",
+    "length": 0.966530612244898,
+    "emo": "hap"
+  },
+  "V3_629": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V3_629.wav",
+    "length": 0.966530612244898,
+    "emo": "hap"
+  },
+  "V3_630": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V3_630.wav",
+    "length": 0.966530612244898,
+    "emo": "hap"
+  },
+  "V3_631": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V3_631.wav",
+    "length": 0.966530612244898,
+    "emo": "hap"
+  },
+  "V3_632": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V3_632.wav",
+    "length": 0.966530612244898,
+    "emo": "hap"
+  },
+  "V3_633": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V3_633.wav",
+    "length": 0.966530612244898,
+    "emo": "hap"
+  },
+  "V3_634": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V3_634.wav",
+    "length": 0.966530612244898,
+    "emo": "hap"
+  },
+  "V3_635": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V3_635.wav",
+    "length": 0.966530612244898,
+    "emo": "hap"
+  },
+  "V3_636": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V3_636.wav",
+    "length": 0.966530612244898,
+    "emo": "hap"
+  },
+  "V3_637": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V3_637.wav",
+    "length": 0.966530612244898,
+    "emo": "hap"
+  },
+  "V3_638": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V3_638.wav",
+    "length": 0.966530612244898,
+    "emo": "hap"
+  },
+  "V3_639": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V3_639.wav",
+    "length": 0.966530612244898,
+    "emo": "hap"
+  },
+  "V3_640": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V3_640.wav",
+    "length": 0.966530612244898,
+    "emo": "hap"
+  },
+  "V5_11": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V5_11.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V5_12": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V5_12.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V5_13": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V5_13.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V5_14": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V5_14.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V5_15": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V5_15.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V5_16": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V5_16.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V5_17": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V5_17.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V5_18": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V5_18.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V5_19": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V5_19.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V5_21": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V5_21.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V5_22": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V5_22.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V5_23": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V5_23.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V5_31": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V5_31.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V5_32": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V5_32.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V5_41": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V5_41.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V5_42": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V5_42.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V5_43": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V5_43.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V5_44": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V5_44.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V5_45": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V5_45.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V5_46": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V5_46.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V5_51": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V5_51.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V5_61": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V5_61.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V5_62": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V5_62.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V5_63": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V5_63.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V5_64": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V5_64.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V5_65": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V5_65.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V5_81": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V5_81.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V5_91": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V5_91.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V5_92": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V5_92.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V5_93": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V5_93.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V5_94": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V5_94.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V5_95": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V5_95.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V5_96": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V5_96.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V5_97": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V5_97.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V5_98": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V5_98.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V5_99": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V5_99.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V5_910": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V5_910.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V5_911": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V5_911.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V5_912": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V5_912.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V5_913": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V5_913.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V5_914": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V5_914.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V5_915": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V5_915.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V5_916": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V5_916.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V5_917": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V5_917.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V5_918": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V5_918.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V5_919": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V5_919.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V5_920": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V5_920.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V5_921": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V5_921.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V5_922": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V5_922.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V5_923": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V5_923.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V5_924": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V5_924.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V5_925": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V5_925.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V5_926": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V5_926.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V5_927": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V5_927.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V5_928": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V5_928.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V5_929": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V5_929.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V5_930": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V5_930.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V5_931": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V5_931.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V5_932": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V5_932.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V5_933": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V5_933.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V5_934": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V5_934.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V5_935": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V5_935.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V5_936": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V5_936.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V5_937": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V5_937.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V5_938": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V5_938.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V5_939": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V5_939.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V5_940": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V5_940.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V5_121": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V5_121.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V5_122": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V5_122.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V5_123": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V5_123.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V5_124": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V5_124.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V5_125": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V5_125.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V5_126": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V5_126.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V5_127": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V5_127.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V5_128": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V5_128.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V5_129": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V5_129.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V5_1210": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V5_1210.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V5_1211": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V5_1211.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V5_1212": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V5_1212.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V5_1213": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V5_1213.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V5_1214": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V5_1214.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V5_1215": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V5_1215.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V5_1216": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V5_1216.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V5_1217": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V5_1217.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V5_1218": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V5_1218.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V5_1219": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V5_1219.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V5_1220": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V5_1220.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V5_1221": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V5_1221.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V5_1222": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V5_1222.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V5_1223": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V5_1223.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V5_1224": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V5_1224.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V5_1225": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V5_1225.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V5_1226": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V5_1226.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V5_1227": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V5_1227.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V5_1228": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V5_1228.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V5_1229": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V5_1229.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V5_1230": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V5_1230.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V5_1231": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V5_1231.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V5_1232": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V5_1232.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V5_1233": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V5_1233.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V5_1234": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V5_1234.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V5_1235": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V5_1235.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V5_1236": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V5_1236.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V5_141": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V5_141.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V5_142": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V5_142.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V5_171": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V5_171.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V5_172": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V5_172.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V5_173": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V5_173.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V5_174": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V5_174.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V5_175": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V5_175.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V5_176": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V5_176.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V5_191": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V5_191.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V5_192": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V5_192.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V5_201": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V5_201.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V5_241": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V5_241.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V5_251": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V5_251.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V5_252": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V5_252.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V5_253": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V5_253.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V5_261": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V5_261.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V5_262": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V5_262.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V5_263": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V5_263.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V5_264": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V5_264.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V5_271": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V5_271.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V5_272": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V5_272.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V5_281": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V5_281.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V5_282": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V5_282.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V5_283": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V5_283.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V5_284": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V5_284.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V5_285": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V5_285.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V5_286": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V5_286.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V5_291": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V5_291.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V5_321": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V5_321.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V5_322": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V5_322.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V5_323": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V5_323.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V5_324": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V5_324.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V5_325": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V5_325.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V5_326": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V5_326.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V5_327": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V5_327.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V5_341": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V5_341.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V5_342": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V5_342.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V5_343": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V5_343.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_11": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_11.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_12": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_12.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_13": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_13.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_14": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_14.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_15": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_15.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_16": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_16.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_17": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_17.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_18": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_18.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_19": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_19.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_110": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_110.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_111": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_111.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_112": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_112.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_113": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_113.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_114": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_114.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_115": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_115.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_116": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_116.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_117": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_117.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_118": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_118.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_119": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_119.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_120": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_120.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_121": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_121.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_122": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_122.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_123": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_123.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_124": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_124.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_125": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_125.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_126": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_126.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_127": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_127.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_128": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_128.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_129": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_129.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_130": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_130.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_131": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_131.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_132": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_132.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_133": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_133.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_134": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_134.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_135": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_135.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_137": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_137.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_138": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_138.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_139": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_139.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_140": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_140.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_141": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_141.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_143": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_143.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_144": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_144.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_145": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_145.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_147": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_147.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_148": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_148.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_149": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_149.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_150": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_150.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_151": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_151.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_152": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_152.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_153": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_153.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_154": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_154.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_155": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_155.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_157": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_157.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_158": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_158.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_159": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_159.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_160": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_160.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_161": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_161.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_162": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_162.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_164": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_164.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_165": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_165.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_167": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_167.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_168": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_168.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_169": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_169.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_170": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_170.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_171": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_171.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_172": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_172.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_173": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_173.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_174": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_174.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_175": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_175.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_177": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_177.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_178": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_178.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_179": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_179.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_180": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_180.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_192": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_192.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_193": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_193.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_194": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_194.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_195": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_195.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_197": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_197.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_198": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_198.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_1100": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_1100.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_1113": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_1113.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_1114": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_1114.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_1115": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_1115.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_1116": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_1116.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_1117": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_1117.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_1118": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_1118.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_1119": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_1119.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_1120": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_1120.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_1121": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_1121.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_1122": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_1122.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_1123": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_1123.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_1124": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_1124.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_1125": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_1125.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_1126": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_1126.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_1127": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_1127.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_1128": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_1128.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_1129": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_1129.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_1130": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_1130.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_1131": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_1131.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_1132": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_1132.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_1133": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_1133.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_1134": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_1134.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_1135": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_1135.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_1137": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_1137.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_1138": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_1138.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_1139": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_1139.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_31": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_31.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_32": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_32.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_33": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_33.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_34": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_34.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_35": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_35.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_36": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_36.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_37": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_37.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_38": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_38.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_39": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_39.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_310": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_310.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_311": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_311.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_312": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_312.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_313": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_313.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_314": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_314.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_315": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_315.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_316": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_316.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_317": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_317.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_318": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_318.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_319": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_319.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_320": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_320.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_321": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_321.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_322": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_322.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_323": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_323.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_324": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_324.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_325": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_325.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_326": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_326.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_327": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_327.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_328": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_328.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_329": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_329.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_330": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_330.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_331": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_331.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_332": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_332.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_333": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_333.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_334": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_334.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_335": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_335.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_336": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_336.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_337": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_337.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_338": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_338.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_339": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_339.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_340": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_340.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_341": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_341.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_343": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_343.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_344": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_344.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_345": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_345.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_346": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_346.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_347": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_347.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_348": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_348.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_349": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_349.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_350": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_350.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_351": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_351.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_352": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_352.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_353": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_353.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_354": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_354.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_355": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_355.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_356": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_356.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_357": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_357.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_358": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_358.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_359": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_359.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_360": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_360.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_361": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_361.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_362": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_362.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_363": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_363.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_364": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_364.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_365": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_365.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_366": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_366.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_367": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_367.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_368": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_368.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_369": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_369.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_370": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_370.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_371": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_371.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_51": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_51.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_52": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_52.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_53": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_53.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_54": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_54.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_61": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_61.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_62": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_62.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_63": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_63.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_64": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_64.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_71": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_71.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_81": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_81.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_82": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_82.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_83": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_83.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_84": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_84.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_85": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_85.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_86": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_86.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_87": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_87.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_88": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_88.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_89": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_89.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_810": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_810.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_811": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_811.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_812": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_812.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_813": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_813.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_814": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_814.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_815": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_815.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_816": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_816.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_817": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_817.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_818": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_818.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_819": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_819.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_820": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_820.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_821": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_821.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_822": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_822.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_101": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_101.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_102": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_102.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_103": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_103.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_104": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_104.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_105": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_105.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_106": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_106.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_107": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_107.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_108": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_108.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_109": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_109.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_1010": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_1010.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_1011": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_1011.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_1012": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_1012.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_1013": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_1013.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_1014": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_1014.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_1015": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_1015.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_136": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_136.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_1310": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_1310.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_1311": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_1311.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_1312": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_1312.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_1313": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_1313.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_1314": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_1314.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_1315": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_1315.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_1316": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_1316.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_1317": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_1317.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_1318": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_1318.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_1319": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_1319.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_1320": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_1320.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_1321": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_1321.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_1322": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_1322.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_1323": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_1323.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_1324": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_1324.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_1325": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_1325.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_1326": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_1326.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_1327": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_1327.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_1328": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_1328.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_1329": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_1329.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_1330": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_1330.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_1331": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_1331.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_1332": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_1332.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_1333": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_1333.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_1334": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_1334.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_1335": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_1335.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_1336": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_1336.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_176": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_176.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_1710": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_1710.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_1711": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_1711.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_1712": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_1712.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_1713": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_1713.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_1714": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_1714.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_1715": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_1715.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_1716": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_1716.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_1717": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_1717.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_1718": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_1718.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_1719": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_1719.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_1720": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_1720.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_1721": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_1721.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_1722": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_1722.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_1723": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_1723.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_1724": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_1724.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_1725": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_1725.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_1726": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_1726.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_1727": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_1727.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_1728": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_1728.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_181": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_181.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_182": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_182.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_183": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_183.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_184": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_184.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_185": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_185.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_191": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_191.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_196": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_196.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_211": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_211.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_212": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_212.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_213": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_213.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_214": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_214.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_215": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_215.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_216": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_216.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_217": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_217.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_218": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_218.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_219": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_219.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_2110": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_2110.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_2111": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_2111.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_2112": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_2112.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_2113": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_2113.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_2114": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_2114.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_2115": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_2115.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_2116": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_2116.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_2117": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_2117.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_2118": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_2118.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_2119": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_2119.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_2120": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_2120.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_2121": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_2121.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_2122": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_2122.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_2123": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_2123.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_2124": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_2124.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_2125": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_2125.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_2126": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_2126.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_2127": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_2127.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_2128": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_2128.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_2129": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_2129.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_2130": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_2130.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_2131": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_2131.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_2132": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_2132.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_2133": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_2133.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_2134": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_2134.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_2135": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_2135.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_2136": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_2136.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_2137": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_2137.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_2138": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_2138.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_2139": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_2139.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_2140": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_2140.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_2141": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_2141.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_2143": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_2143.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_2144": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_2144.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_2145": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_2145.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_2146": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_2146.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_2147": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_2147.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_2148": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_2148.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_2149": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_2149.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_2150": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_2150.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_2151": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_2151.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_2152": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_2152.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_2153": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_2153.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_2154": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_2154.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_2155": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_2155.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_2156": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_2156.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_2157": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_2157.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_2158": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_2158.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_2159": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_2159.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_2160": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_2160.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_2161": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_2161.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_2162": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_2162.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_2163": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_2163.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_2164": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_2164.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_2165": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_2165.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_2166": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_2166.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_2167": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_2167.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_2168": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_2168.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_2169": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_2169.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_231": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_231.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_232": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_232.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_233": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_233.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_234": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_234.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_235": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_235.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_236": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_236.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_237": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_237.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_238": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_238.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_239": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_239.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_2310": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_2310.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_2311": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_2311.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_2312": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_2312.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_2313": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_2313.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_2314": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_2314.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_241": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_241.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_242": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_242.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_243": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_243.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_244": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_244.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_245": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_245.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_246": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_246.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_247": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_247.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_248": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_248.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_249": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_249.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_2410": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_2410.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_2411": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_2411.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_2412": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_2412.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_2413": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_2413.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_2414": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_2414.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V7_2415": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V7_2415.wav",
+    "length": 1.0,
+    "emo": "ang"
+  },
+  "V8_11": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_11.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_21": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_21.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_22": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_22.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_41": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_41.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_71": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_71.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_72": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_72.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_81": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_81.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_82": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_82.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_91": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_91.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_92": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_92.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_101": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_101.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_111": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_111.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_112": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_112.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_113": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_113.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_114": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_114.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_121": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_121.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_131": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_131.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_132": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_132.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_133": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_133.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_141": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_141.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_161": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_161.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_162": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_162.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_163": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_163.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_164": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_164.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_171": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_171.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_172": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_172.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_173": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_173.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_174": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_174.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_175": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_175.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_176": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_176.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_177": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_177.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_178": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_178.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_179": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_179.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_1710": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_1710.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_1711": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_1711.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_1712": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_1712.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_181": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_181.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_182": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_182.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_183": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_183.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_184": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_184.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_201": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_201.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_202": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_202.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_211": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_211.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_212": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_212.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_213": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_213.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_214": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_214.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_215": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_215.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_216": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_216.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_217": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_217.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_218": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_218.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_219": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_219.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_2110": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_2110.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_231": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_231.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_232": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_232.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_233": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_233.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_234": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_234.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_241": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_241.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_242": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_242.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_243": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_243.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_244": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_244.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_245": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_245.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_247": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_247.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_248": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_248.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_249": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_249.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_251": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_251.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_252": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_252.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_271": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_271.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_311": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_311.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_312": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_312.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_313": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_313.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_314": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_314.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_315": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_315.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_316": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_316.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_317": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_317.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_318": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_318.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_319": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_319.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_3110": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_3110.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_3111": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_3111.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_3112": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_3112.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_3113": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_3113.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_3114": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_3114.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_3115": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_3115.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_3116": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_3116.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_3117": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_3117.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_3118": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_3118.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_3119": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_3119.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_3120": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_3120.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_321": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_321.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_322": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_322.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_323": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_323.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_331": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_331.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_332": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_332.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_333": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_333.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_334": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_334.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_335": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_335.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_336": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_336.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_361": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_361.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_362": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_362.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_363": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_363.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_364": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_364.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_381": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_381.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_382": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_382.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_391": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_391.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_392": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_392.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_393": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_393.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_401": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_401.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_421": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_421.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_431": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_431.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_441": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_441.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_451": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_451.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_452": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_452.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_461": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_461.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_511": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_511.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_512": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_512.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_513": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_513.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_531": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_531.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_541": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_541.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_571": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_571.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_572": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_572.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_591": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_591.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_592": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_592.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_593": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_593.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_594": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_594.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_595": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_595.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_596": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_596.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_597": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_597.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_598": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_598.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_599": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_599.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_5910": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_5910.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_5911": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_5911.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_5912": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_5912.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_5913": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_5913.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_5914": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_5914.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_5915": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_5915.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_5916": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_5916.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_601": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_601.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_602": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_602.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_603": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_603.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_604": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_604.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_605": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_605.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_606": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_606.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_607": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_607.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_608": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_608.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_609": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_609.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_6010": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_6010.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_6011": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_6011.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_611": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_611.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_612": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_612.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_613": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_613.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_614": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_614.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_615": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_615.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_616": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_616.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_617": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_617.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_618": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_618.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_619": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_619.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_6110": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_6110.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_6111": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_6111.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_6112": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_6112.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_6113": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_6113.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_6114": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_6114.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_6115": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_6115.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_621": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_621.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_622": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_622.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_623": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_623.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_624": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_624.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_625": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_625.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_626": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_626.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_627": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_627.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_628": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_628.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_629": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_629.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_6210": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_6210.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_6211": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_6211.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_6212": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_6212.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_6213": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_6213.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_6214": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_6214.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_631": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_631.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_632": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_632.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_633": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_633.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_634": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_634.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_635": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_635.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_636": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_636.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_637": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_637.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_641": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_641.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_651": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_651.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_652": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_652.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_653": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_653.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_654": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_654.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_655": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_655.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_656": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_656.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_671": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_671.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_701": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_701.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_721": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_721.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_722": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_722.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_723": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_723.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_724": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_724.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_725": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_725.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_726": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_726.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_727": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_727.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_728": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_728.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_729": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_729.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_7210": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_7210.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_7211": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_7211.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_7212": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_7212.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_7213": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_7213.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_7214": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_7214.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_7215": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_7215.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_7216": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_7216.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_7218": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_7218.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_7219": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_7219.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_731": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_731.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_732": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_732.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_733": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_733.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_741": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_741.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_761": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_761.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_762": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_762.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_763": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_763.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_771": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_771.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_772": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_772.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_791": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_791.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_792": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_792.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_793": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_793.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_801": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_801.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_802": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_802.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_803": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_803.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_804": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_804.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_805": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_805.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_806": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_806.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_807": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_807.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_808": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_808.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_809": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_809.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_8010": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_8010.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_8011": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_8011.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_8012": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_8012.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_8014": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_8014.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_8015": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_8015.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_8016": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_8016.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_8018": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_8018.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_8019": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_8019.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_8020": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_8020.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_8021": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_8021.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_8023": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_8023.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_8024": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_8024.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_8025": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_8025.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_8026": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_8026.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_8027": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_8027.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_8028": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_8028.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_8029": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_8029.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_811": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_811.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_821": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_821.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_822": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_822.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_823": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_823.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_824": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_824.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_831": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_831.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_832": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_832.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_833": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_833.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_834": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_834.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_835": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_835.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_851": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_851.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_852": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_852.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_853": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_853.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_861": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_861.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_862": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_862.wav",
+    "length": 1.0,
+    "emo": "hap"
+  },
+  "V8_863": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_863.wav",
+    "length": 0.9508390022675737,
+    "emo": "hap"
+  },
+  "V8_871": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/arabic_emotion/new_audios/V8_871.wav",
+    "length": 1.0,
+    "emo": "hap"
+  }
+}

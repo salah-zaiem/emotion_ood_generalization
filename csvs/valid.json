@@ -1,0 +1,2767 @@
+{
+  "Ses03F_script02_2_F045": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session3/sentences/wav/Ses03F_script02_2/Ses03F_script02_2_F045.wav",
+    "length": 3.73275,
+    "emo": "hap"
+  },
+  "Ses03F_impro06_F030": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session3/sentences/wav/Ses03F_impro06/Ses03F_impro06_F030.wav",
+    "length": 2.7813125,
+    "emo": "sad"
+  },
+  "Ses05M_impro05_F004": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session5/sentences/wav/Ses05M_impro05/Ses05M_impro05_F004.wav",
+    "length": 3.0299375,
+    "emo": "neu"
+  },
+  "Ses04F_impro06_F008": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session4/sentences/wav/Ses04F_impro06/Ses04F_impro06_F008.wav",
+    "length": 8.18,
+    "emo": "hap"
+  },
+  "Ses04F_impro07_F022": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session4/sentences/wav/Ses04F_impro07/Ses04F_impro07_F022.wav",
+    "length": 3.4538125,
+    "emo": "hap"
+  },
+  "Ses04M_impro07_M042": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session4/sentences/wav/Ses04M_impro07/Ses04M_impro07_M042.wav",
+    "length": 4.1899375,
+    "emo": "neu"
+  },
+  "Ses01M_script02_2_F010": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session1/sentences/wav/Ses01M_script02_2/Ses01M_script02_2_F010.wav",
+    "length": 7.3474375,
+    "emo": "ang"
+  },
+  "Ses03F_script03_1_F009": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session3/sentences/wav/Ses03F_script03_1/Ses03F_script03_1_F009.wav",
+    "length": 3.69925,
+    "emo": "hap"
+  },
+  "Ses05M_impro07_F010": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session5/sentences/wav/Ses05M_impro07/Ses05M_impro07_F010.wav",
+    "length": 1.23,
+    "emo": "neu"
+  },
+  "Ses04F_script03_2_M000": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session4/sentences/wav/Ses04F_script03_2/Ses04F_script03_2_M000.wav",
+    "length": 4.17,
+    "emo": "neu"
+  },
+  "Ses01M_impro06_M024": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session1/sentences/wav/Ses01M_impro06/Ses01M_impro06_M024.wav",
+    "length": 4.3799375,
+    "emo": "sad"
+  },
+  "Ses02F_impro04_M016": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session2/sentences/wav/Ses02F_impro04/Ses02F_impro04_M016.wav",
+    "length": 1.1099375,
+    "emo": "neu"
+  },
+  "Ses04M_script02_2_F036": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session4/sentences/wav/Ses04M_script02_2/Ses04M_script02_2_F036.wav",
+    "length": 10.32775,
+    "emo": "hap"
+  },
+  "Ses02F_impro03_M024": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session2/sentences/wav/Ses02F_impro03/Ses02F_impro03_M024.wav",
+    "length": 4.25,
+    "emo": "hap"
+  },
+  "Ses02M_script02_2_M010": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session2/sentences/wav/Ses02M_script02_2/Ses02M_script02_2_M010.wav",
+    "length": 2.2,
+    "emo": "neu"
+  },
+  "Ses05M_script01_1b_M003": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session5/sentences/wav/Ses05M_script01_1b/Ses05M_script01_1b_M003.wav",
+    "length": 6.5,
+    "emo": "sad"
+  },
+  "Ses02M_script03_2_F038": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session2/sentences/wav/Ses02M_script03_2/Ses02M_script03_2_F038.wav",
+    "length": 6.5125625,
+    "emo": "ang"
+  },
+  "Ses03M_impro03_F001": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session3/sentences/wav/Ses03M_impro03/Ses03M_impro03_F001.wav",
+    "length": 1.598125,
+    "emo": "hap"
+  },
+  "Ses03F_script02_2_F048": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session3/sentences/wav/Ses03F_script02_2/Ses03F_script02_2_F048.wav",
+    "length": 3.7085625,
+    "emo": "hap"
+  },
+  "Ses03M_impro06_M018": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session3/sentences/wav/Ses03M_impro06/Ses03M_impro06_M018.wav",
+    "length": 4.9405,
+    "emo": "sad"
+  },
+  "Ses05F_script03_1_M005": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session5/sentences/wav/Ses05F_script03_1/Ses05F_script03_1_M005.wav",
+    "length": 7.6999375,
+    "emo": "hap"
+  },
+  "Ses01F_script02_2_F001": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session1/sentences/wav/Ses01F_script02_2/Ses01F_script02_2_F001.wav",
+    "length": 1.8725,
+    "emo": "neu"
+  },
+  "Ses03F_script03_2_M042": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session3/sentences/wav/Ses03F_script03_2/Ses03F_script03_2_M042.wav",
+    "length": 5.3425,
+    "emo": "ang"
+  },
+  "Ses05M_script03_1_M014": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session5/sentences/wav/Ses05M_script03_1/Ses05M_script03_1_M014.wav",
+    "length": 11.3021875,
+    "emo": "hap"
+  },
+  "Ses02M_impro06_M002": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session2/sentences/wav/Ses02M_impro06/Ses02M_impro06_M002.wav",
+    "length": 15.034375,
+    "emo": "sad"
+  },
+  "Ses03M_impro02_M002": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session3/sentences/wav/Ses03M_impro02/Ses03M_impro02_M002.wav",
+    "length": 3.0045,
+    "emo": "sad"
+  },
+  "Ses04F_impro02_M018": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session4/sentences/wav/Ses04F_impro02/Ses04F_impro02_M018.wav",
+    "length": 2.92,
+    "emo": "ang"
+  },
+  "Ses03M_impro07_F018": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session3/sentences/wav/Ses03M_impro07/Ses03M_impro07_F018.wav",
+    "length": 3.4,
+    "emo": "hap"
+  },
+  "Ses03F_script01_2_F016": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session3/sentences/wav/Ses03F_script01_2/Ses03F_script01_2_F016.wav",
+    "length": 7.27,
+    "emo": "ang"
+  },
+  "Ses01F_impro04_M003": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session1/sentences/wav/Ses01F_impro04/Ses01F_impro04_M003.wav",
+    "length": 1.8,
+    "emo": "neu"
+  },
+  "Ses01M_impro02_M013": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session1/sentences/wav/Ses01M_impro02/Ses01M_impro02_M013.wav",
+    "length": 4.425,
+    "emo": "sad"
+  },
+  "Ses01F_script01_1_F034": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session1/sentences/wav/Ses01F_script01_1/Ses01F_script01_1_F034.wav",
+    "length": 2.7401875,
+    "emo": "neu"
+  },
+  "Ses01M_impro06_M017": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session1/sentences/wav/Ses01M_impro06/Ses01M_impro06_M017.wav",
+    "length": 23.74,
+    "emo": "sad"
+  },
+  "Ses01F_impro01_M011": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session1/sentences/wav/Ses01F_impro01/Ses01F_impro01_M011.wav",
+    "length": 7.2399375,
+    "emo": "ang"
+  },
+  "Ses03M_impro07_M020": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session3/sentences/wav/Ses03M_impro07/Ses03M_impro07_M020.wav",
+    "length": 5.4,
+    "emo": "hap"
+  },
+  "Ses01M_script02_1_M041": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session1/sentences/wav/Ses01M_script02_1/Ses01M_script02_1_M041.wav",
+    "length": 8.845,
+    "emo": "hap"
+  },
+  "Ses02M_impro07_F000": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session2/sentences/wav/Ses02M_impro07/Ses02M_impro07_F000.wav",
+    "length": 2.1023125,
+    "emo": "hap"
+  },
+  "Ses03M_impro03_M038": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session3/sentences/wav/Ses03M_impro03/Ses03M_impro03_M038.wav",
+    "length": 5.4618125,
+    "emo": "neu"
+  },
+  "Ses05M_impro05_M010": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session5/sentences/wav/Ses05M_impro05/Ses05M_impro05_M010.wav",
+    "length": 4.4199375,
+    "emo": "neu"
+  },
+  "Ses03F_impro02_M027": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session3/sentences/wav/Ses03F_impro02/Ses03F_impro02_M027.wav",
+    "length": 6.5274375,
+    "emo": "ang"
+  },
+  "Ses05F_script01_3_M031": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session5/sentences/wav/Ses05F_script01_3/Ses05F_script01_3_M031.wav",
+    "length": 9.6445625,
+    "emo": "sad"
+  },
+  "Ses01F_script02_1_M034": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session1/sentences/wav/Ses01F_script02_1/Ses01F_script02_1_M034.wav",
+    "length": 5.54,
+    "emo": "neu"
+  },
+  "Ses05M_impro07_M045": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session5/sentences/wav/Ses05M_impro07/Ses05M_impro07_M045.wav",
+    "length": 4.91,
+    "emo": "hap"
+  },
+  "Ses04M_script02_1_F013": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session4/sentences/wav/Ses04M_script02_1/Ses04M_script02_1_F013.wav",
+    "length": 7.2099375,
+    "emo": "ang"
+  },
+  "Ses02M_script01_1_M021": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session2/sentences/wav/Ses02M_script01_1/Ses02M_script01_1_M021.wav",
+    "length": 2.8299375,
+    "emo": "ang"
+  },
+  "Ses05F_impro05_M016": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session5/sentences/wav/Ses05F_impro05/Ses05F_impro05_M016.wav",
+    "length": 9.66,
+    "emo": "neu"
+  },
+  "Ses05F_impro04_F045": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session5/sentences/wav/Ses05F_impro04/Ses05F_impro04_F045.wav",
+    "length": 2.0299375,
+    "emo": "neu"
+  },
+  "Ses03M_script01_1_M005": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session3/sentences/wav/Ses03M_script01_1/Ses03M_script01_1_M005.wav",
+    "length": 2.3905,
+    "emo": "sad"
+  },
+  "Ses05M_script03_2_F043": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session5/sentences/wav/Ses05M_script03_2/Ses05M_script03_2_F043.wav",
+    "length": 1.0099375,
+    "emo": "ang"
+  },
+  "Ses04F_impro07_M041": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session4/sentences/wav/Ses04F_impro07/Ses04F_impro07_M041.wav",
+    "length": 2.1199375,
+    "emo": "hap"
+  },
+  "Ses05M_script01_3_M036": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session5/sentences/wav/Ses05M_script01_3/Ses05M_script01_3_M036.wav",
+    "length": 10.5199375,
+    "emo": "sad"
+  },
+  "Ses01F_script03_1_F005": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session1/sentences/wav/Ses01F_script03_1/Ses01F_script03_1_F005.wav",
+    "length": 6.4699375,
+    "emo": "hap"
+  },
+  "Ses04M_script03_2_F031": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session4/sentences/wav/Ses04M_script03_2/Ses04M_script03_2_F031.wav",
+    "length": 4.0099375,
+    "emo": "ang"
+  },
+  "Ses04M_script03_2_M052": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session4/sentences/wav/Ses04M_script03_2/Ses04M_script03_2_M052.wav",
+    "length": 1.0799375,
+    "emo": "ang"
+  },
+  "Ses02M_impro06_M000": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session2/sentences/wav/Ses02M_impro06/Ses02M_impro06_M000.wav",
+    "length": 1.958125,
+    "emo": "sad"
+  },
+  "Ses03F_script01_3_F025": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session3/sentences/wav/Ses03F_script01_3/Ses03F_script01_3_F025.wav",
+    "length": 3.7430625,
+    "emo": "sad"
+  },
+  "Ses01M_script03_2_F038": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session1/sentences/wav/Ses01M_script03_2/Ses01M_script03_2_F038.wav",
+    "length": 5.17,
+    "emo": "ang"
+  },
+  "Ses05M_impro07_M020": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session5/sentences/wav/Ses05M_impro07/Ses05M_impro07_M020.wav",
+    "length": 2.62,
+    "emo": "hap"
+  },
+  "Ses02M_impro02_F006": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session2/sentences/wav/Ses02M_impro02/Ses02M_impro02_F006.wav",
+    "length": 1.45375,
+    "emo": "sad"
+  },
+  "Ses02F_script03_2_M027": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session2/sentences/wav/Ses02F_script03_2/Ses02F_script03_2_M027.wav",
+    "length": 2.31,
+    "emo": "ang"
+  },
+  "Ses02M_script02_1_M028": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session2/sentences/wav/Ses02M_script02_1/Ses02M_script02_1_M028.wav",
+    "length": 9.9499375,
+    "emo": "hap"
+  },
+  "Ses03F_script03_2_M012": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session3/sentences/wav/Ses03F_script03_2/Ses03F_script03_2_M012.wav",
+    "length": 3.5325,
+    "emo": "neu"
+  },
+  "Ses05F_script03_2_F014": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session5/sentences/wav/Ses05F_script03_2/Ses05F_script03_2_F014.wav",
+    "length": 3.3,
+    "emo": "neu"
+  },
+  "Ses03F_script01_1_M034": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session3/sentences/wav/Ses03F_script01_1/Ses03F_script01_1_M034.wav",
+    "length": 3.6675625,
+    "emo": "neu"
+  },
+  "Ses04F_script03_2_F024": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session4/sentences/wav/Ses04F_script03_2/Ses04F_script03_2_F024.wav",
+    "length": 1.9485625,
+    "emo": "ang"
+  },
+  "Ses04F_impro07_F058": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session4/sentences/wav/Ses04F_impro07/Ses04F_impro07_F058.wav",
+    "length": 5.31,
+    "emo": "hap"
+  },
+  "Ses05F_impro06_M003": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session5/sentences/wav/Ses05F_impro06/Ses05F_impro06_M003.wav",
+    "length": 3.7099375,
+    "emo": "sad"
+  },
+  "Ses05F_impro07_F002": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session5/sentences/wav/Ses05F_impro07/Ses05F_impro07_F002.wav",
+    "length": 1.0199375,
+    "emo": "hap"
+  },
+  "Ses05M_script03_1_M011": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session5/sentences/wav/Ses05M_script03_1/Ses05M_script03_1_M011.wav",
+    "length": 3.4699375,
+    "emo": "hap"
+  },
+  "Ses03F_script02_2_F017": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session3/sentences/wav/Ses03F_script02_2/Ses03F_script02_2_F017.wav",
+    "length": 3.1995,
+    "emo": "sad"
+  },
+  "Ses04F_script02_1_F014": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session4/sentences/wav/Ses04F_script02_1/Ses04F_script02_1_F014.wav",
+    "length": 8.1,
+    "emo": "ang"
+  },
+  "Ses05F_script01_2_M000": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session5/sentences/wav/Ses05F_script01_2/Ses05F_script01_2_M000.wav",
+    "length": 2.1299375,
+    "emo": "neu"
+  },
+  "Ses03F_impro08_F014": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session3/sentences/wav/Ses03F_impro08/Ses03F_impro08_F014.wav",
+    "length": 4.74,
+    "emo": "neu"
+  },
+  "Ses04M_impro06_F003": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session4/sentences/wav/Ses04M_impro06/Ses04M_impro06_F003.wav",
+    "length": 4.9399375,
+    "emo": "sad"
+  },
+  "Ses01M_impro05_F000": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session1/sentences/wav/Ses01M_impro05/Ses01M_impro05_F000.wav",
+    "length": 2.05125,
+    "emo": "neu"
+  },
+  "Ses03M_script03_2_M040": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session3/sentences/wav/Ses03M_script03_2/Ses03M_script03_2_M040.wav",
+    "length": 3.990625,
+    "emo": "ang"
+  },
+  "Ses04M_script03_2_M035": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session4/sentences/wav/Ses04M_script03_2/Ses04M_script03_2_M035.wav",
+    "length": 5.5799375,
+    "emo": "ang"
+  },
+  "Ses01F_script03_2_F021": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session1/sentences/wav/Ses01F_script03_2/Ses01F_script03_2_F021.wav",
+    "length": 8.5165625,
+    "emo": "ang"
+  },
+  "Ses05F_script01_2_F011": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session5/sentences/wav/Ses05F_script01_2/Ses05F_script01_2_F011.wav",
+    "length": 3.31,
+    "emo": "ang"
+  },
+  "Ses03F_impro03_F004": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session3/sentences/wav/Ses03F_impro03/Ses03F_impro03_F004.wav",
+    "length": 5.211,
+    "emo": "hap"
+  },
+  "Ses05F_impro06_M001": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session5/sentences/wav/Ses05F_impro06/Ses05F_impro06_M001.wav",
+    "length": 5.3673125,
+    "emo": "sad"
+  },
+  "Ses05F_script02_2_M005": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session5/sentences/wav/Ses05F_script02_2/Ses05F_script02_2_M005.wav",
+    "length": 6.5494375,
+    "emo": "neu"
+  },
+  "Ses05M_impro04_F022": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session5/sentences/wav/Ses05M_impro04/Ses05M_impro04_F022.wav",
+    "length": 2.34,
+    "emo": "neu"
+  },
+  "Ses05F_impro07_M017": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session5/sentences/wav/Ses05F_impro07/Ses05F_impro07_M017.wav",
+    "length": 2.5099375,
+    "emo": "hap"
+  },
+  "Ses01M_script01_1_F040": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session1/sentences/wav/Ses01M_script01_1/Ses01M_script01_1_F040.wav",
+    "length": 11.8625,
+    "emo": "ang"
+  },
+  "Ses05M_impro07_M005": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session5/sentences/wav/Ses05M_impro07/Ses05M_impro07_M005.wav",
+    "length": 1.36,
+    "emo": "hap"
+  },
+  "Ses04F_script02_1_M038": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session4/sentences/wav/Ses04F_script02_1/Ses04F_script02_1_M038.wav",
+    "length": 10.1064375,
+    "emo": "hap"
+  },
+  "Ses01F_impro06_M006": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session1/sentences/wav/Ses01F_impro06/Ses01F_impro06_M006.wav",
+    "length": 1.49,
+    "emo": "neu"
+  },
+  "Ses04F_script01_3_M036": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session4/sentences/wav/Ses04F_script01_3/Ses04F_script01_3_M036.wav",
+    "length": 4.149875,
+    "emo": "sad"
+  },
+  "Ses05F_script03_1_F033": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session5/sentences/wav/Ses05F_script03_1/Ses05F_script03_1_F033.wav",
+    "length": 1.7346875,
+    "emo": "neu"
+  },
+  "Ses04F_script01_1_F042": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session4/sentences/wav/Ses04F_script01_1/Ses04F_script01_1_F042.wav",
+    "length": 3.7001875,
+    "emo": "ang"
+  },
+  "Ses02M_script03_2_F028": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session2/sentences/wav/Ses02M_script03_2/Ses02M_script03_2_F028.wav",
+    "length": 2.15275,
+    "emo": "ang"
+  },
+  "Ses03M_impro06_M030": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session3/sentences/wav/Ses03M_impro06/Ses03M_impro06_M030.wav",
+    "length": 2.1416875,
+    "emo": "sad"
+  },
+  "Ses02M_script03_1_M018": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session2/sentences/wav/Ses02M_script03_1/Ses02M_script03_1_M018.wav",
+    "length": 2.8685,
+    "emo": "hap"
+  },
+  "Ses02M_script03_2_F014": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session2/sentences/wav/Ses02M_script03_2/Ses02M_script03_2_F014.wav",
+    "length": 1.284375,
+    "emo": "ang"
+  },
+  "Ses04F_impro02_F023": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session4/sentences/wav/Ses04F_impro02/Ses04F_impro02_F023.wav",
+    "length": 9.5,
+    "emo": "sad"
+  },
+  "Ses03F_script01_3_M011": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session3/sentences/wav/Ses03F_script01_3/Ses03F_script01_3_M011.wav",
+    "length": 2.0855,
+    "emo": "hap"
+  },
+  "Ses04F_impro07_F064": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session4/sentences/wav/Ses04F_impro07/Ses04F_impro07_F064.wav",
+    "length": 1.8525625,
+    "emo": "hap"
+  },
+  "Ses04F_impro07_M058": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session4/sentences/wav/Ses04F_impro07/Ses04F_impro07_M058.wav",
+    "length": 4.07,
+    "emo": "neu"
+  },
+  "Ses04F_script03_2_F030": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session4/sentences/wav/Ses04F_script03_2/Ses04F_script03_2_F030.wav",
+    "length": 2.73,
+    "emo": "ang"
+  },
+  "Ses03M_impro05b_F005": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session3/sentences/wav/Ses03M_impro05b/Ses03M_impro05b_F005.wav",
+    "length": 6.5749375,
+    "emo": "neu"
+  },
+  "Ses01M_impro07_F011": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session1/sentences/wav/Ses01M_impro07/Ses01M_impro07_F011.wav",
+    "length": 5.9599375,
+    "emo": "hap"
+  },
+  "Ses01F_script02_1_F015": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session1/sentences/wav/Ses01F_script02_1/Ses01F_script02_1_F015.wav",
+    "length": 2.3245,
+    "emo": "neu"
+  },
+  "Ses04M_script02_2_F020": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session4/sentences/wav/Ses04M_script02_2/Ses04M_script02_2_F020.wav",
+    "length": 2.2,
+    "emo": "sad"
+  },
+  "Ses01F_impro04_M025": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session1/sentences/wav/Ses01F_impro04/Ses01F_impro04_M025.wav",
+    "length": 3.2,
+    "emo": "neu"
+  },
+  "Ses05M_script03_1_F026": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session5/sentences/wav/Ses05M_script03_1/Ses05M_script03_1_F026.wav",
+    "length": 4.93,
+    "emo": "hap"
+  },
+  "Ses02F_impro03_M014": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session2/sentences/wav/Ses02F_impro03/Ses02F_impro03_M014.wav",
+    "length": 1.4399375,
+    "emo": "neu"
+  },
+  "Ses03F_impro02_F024": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session3/sentences/wav/Ses03F_impro02/Ses03F_impro02_F024.wav",
+    "length": 4.46,
+    "emo": "sad"
+  },
+  "Ses04M_script01_3_M024": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session4/sentences/wav/Ses04M_script01_3/Ses04M_script01_3_M024.wav",
+    "length": 9.304,
+    "emo": "sad"
+  },
+  "Ses02F_impro05_F004": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session2/sentences/wav/Ses02F_impro05/Ses02F_impro05_F004.wav",
+    "length": 1.46,
+    "emo": "neu"
+  },
+  "Ses03M_script01_2_M008": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session3/sentences/wav/Ses03M_script01_2/Ses03M_script01_2_M008.wav",
+    "length": 3.3611875,
+    "emo": "neu"
+  },
+  "Ses03M_impro05a_F024": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session3/sentences/wav/Ses03M_impro05a/Ses03M_impro05a_F024.wav",
+    "length": 1.3799375,
+    "emo": "neu"
+  },
+  "Ses05F_script01_1_F000": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session5/sentences/wav/Ses05F_script01_1/Ses05F_script01_1_F000.wav",
+    "length": 5.465875,
+    "emo": "sad"
+  },
+  "Ses04F_impro05_F016": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session4/sentences/wav/Ses04F_impro05/Ses04F_impro05_F016.wav",
+    "length": 1.99,
+    "emo": "ang"
+  },
+  "Ses04F_script01_1_M013": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session4/sentences/wav/Ses04F_script01_1/Ses04F_script01_1_M013.wav",
+    "length": 5.3899375,
+    "emo": "ang"
+  },
+  "Ses05F_impro03_F046": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session5/sentences/wav/Ses05F_impro03/Ses05F_impro03_F046.wav",
+    "length": 3.37,
+    "emo": "hap"
+  },
+  "Ses05M_impro03_M008": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session5/sentences/wav/Ses05M_impro03/Ses05M_impro03_M008.wav",
+    "length": 10.4399375,
+    "emo": "hap"
+  },
+  "Ses03M_impro03_F033": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session3/sentences/wav/Ses03M_impro03/Ses03M_impro03_F033.wav",
+    "length": 2.604,
+    "emo": "hap"
+  },
+  "Ses02M_impro08_M018": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session2/sentences/wav/Ses02M_impro08/Ses02M_impro08_M018.wav",
+    "length": 1.1428125,
+    "emo": "neu"
+  },
+  "Ses03M_script02_2_F002": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session3/sentences/wav/Ses03M_script02_2/Ses03M_script02_2_F002.wav",
+    "length": 7.221625,
+    "emo": "ang"
+  },
+  "Ses02F_impro08_F015": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session2/sentences/wav/Ses02F_impro08/Ses02F_impro08_F015.wav",
+    "length": 1.4929375,
+    "emo": "neu"
+  },
+  "Ses03F_impro08_F010": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session3/sentences/wav/Ses03F_impro08/Ses03F_impro08_F010.wav",
+    "length": 10.8399375,
+    "emo": "neu"
+  },
+  "Ses03M_impro05a_F008": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session3/sentences/wav/Ses03M_impro05a/Ses03M_impro05a_F008.wav",
+    "length": 2.5299375,
+    "emo": "neu"
+  },
+  "Ses05M_impro08_F026": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session5/sentences/wav/Ses05M_impro08/Ses05M_impro08_F026.wav",
+    "length": 6.8799375,
+    "emo": "hap"
+  },
+  "Ses02F_script03_1_F006": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session2/sentences/wav/Ses02F_script03_1/Ses02F_script03_1_F006.wav",
+    "length": 2.27,
+    "emo": "hap"
+  },
+  "Ses01F_script02_2_M023": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session1/sentences/wav/Ses01F_script02_2/Ses01F_script02_2_M023.wav",
+    "length": 2.9599375,
+    "emo": "neu"
+  },
+  "Ses02M_script03_2_F015": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session2/sentences/wav/Ses02M_script03_2/Ses02M_script03_2_F015.wav",
+    "length": 4.9205625,
+    "emo": "neu"
+  },
+  "Ses02F_impro07_F035": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session2/sentences/wav/Ses02F_impro07/Ses02F_impro07_F035.wav",
+    "length": 3.665625,
+    "emo": "hap"
+  },
+  "Ses02F_script03_1_F022": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session2/sentences/wav/Ses02F_script03_1/Ses02F_script03_1_F022.wav",
+    "length": 2.0355625,
+    "emo": "hap"
+  },
+  "Ses01F_impro06_F021": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session1/sentences/wav/Ses01F_impro06/Ses01F_impro06_F021.wav",
+    "length": 16.5849375,
+    "emo": "sad"
+  },
+  "Ses01M_script02_1_M042": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session1/sentences/wav/Ses01M_script02_1/Ses01M_script02_1_M042.wav",
+    "length": 11.2039375,
+    "emo": "hap"
+  },
+  "Ses04F_impro04_F031": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session4/sentences/wav/Ses04F_impro04/Ses04F_impro04_F031.wav",
+    "length": 3.61,
+    "emo": "ang"
+  },
+  "Ses05F_impro04_M039": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session5/sentences/wav/Ses05F_impro04/Ses05F_impro04_M039.wav",
+    "length": 11.92,
+    "emo": "neu"
+  },
+  "Ses03M_impro04_F015": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session3/sentences/wav/Ses03M_impro04/Ses03M_impro04_F015.wav",
+    "length": 3.3574375,
+    "emo": "neu"
+  },
+  "Ses04M_script03_2_M028": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session4/sentences/wav/Ses04M_script03_2/Ses04M_script03_2_M028.wav",
+    "length": 2.15,
+    "emo": "neu"
+  },
+  "Ses04F_impro07_M059": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session4/sentences/wav/Ses04F_impro07/Ses04F_impro07_M059.wav",
+    "length": 2.7799375,
+    "emo": "neu"
+  },
+  "Ses02M_impro01_F002": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session2/sentences/wav/Ses02M_impro01/Ses02M_impro01_F002.wav",
+    "length": 3.074125,
+    "emo": "neu"
+  },
+  "Ses02F_impro06_F005": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session2/sentences/wav/Ses02F_impro06/Ses02F_impro06_F005.wav",
+    "length": 2.7981875,
+    "emo": "sad"
+  },
+  "Ses05M_impro04_F019": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session5/sentences/wav/Ses05M_impro04/Ses05M_impro04_F019.wav",
+    "length": 1.66,
+    "emo": "neu"
+  },
+  "Ses04F_script03_2_M005": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session4/sentences/wav/Ses04F_script03_2/Ses04F_script03_2_M005.wav",
+    "length": 2.28,
+    "emo": "ang"
+  },
+  "Ses01M_script02_1_M017": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session1/sentences/wav/Ses01M_script02_1/Ses01M_script02_1_M017.wav",
+    "length": 4.4199375,
+    "emo": "hap"
+  },
+  "Ses05F_script03_1_M020": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session5/sentences/wav/Ses05F_script03_1/Ses05F_script03_1_M020.wav",
+    "length": 9.5899375,
+    "emo": "hap"
+  },
+  "Ses05F_impro06_F009": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session5/sentences/wav/Ses05F_impro06/Ses05F_impro06_F009.wav",
+    "length": 4.0299375,
+    "emo": "sad"
+  },
+  "Ses03F_script01_1_M041": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session3/sentences/wav/Ses03F_script01_1/Ses03F_script01_1_M041.wav",
+    "length": 3.859125,
+    "emo": "neu"
+  },
+  "Ses01M_script02_2_F014": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session1/sentences/wav/Ses01M_script02_2/Ses01M_script02_2_F014.wav",
+    "length": 3.25,
+    "emo": "ang"
+  },
+  "Ses04M_script02_1_F014": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session4/sentences/wav/Ses04M_script02_1/Ses04M_script02_1_F014.wav",
+    "length": 2.2,
+    "emo": "neu"
+  },
+  "Ses05F_script02_1_M012": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session5/sentences/wav/Ses05F_script02_1/Ses05F_script02_1_M012.wav",
+    "length": 1.9300625,
+    "emo": "hap"
+  },
+  "Ses03F_script02_1_M015": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session3/sentences/wav/Ses03F_script02_1/Ses03F_script02_1_M015.wav",
+    "length": 9.97025,
+    "emo": "hap"
+  },
+  "Ses02F_script03_2_F039": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session2/sentences/wav/Ses02F_script03_2/Ses02F_script03_2_F039.wav",
+    "length": 6.33,
+    "emo": "ang"
+  },
+  "Ses04M_script01_2_F011": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session4/sentences/wav/Ses04M_script01_2/Ses04M_script01_2_F011.wav",
+    "length": 6.46,
+    "emo": "ang"
+  },
+  "Ses04M_impro06_F010": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session4/sentences/wav/Ses04M_impro06/Ses04M_impro06_F010.wav",
+    "length": 3.1599375,
+    "emo": "sad"
+  },
+  "Ses04F_impro03_M040": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session4/sentences/wav/Ses04F_impro03/Ses04F_impro03_M040.wav",
+    "length": 4.91,
+    "emo": "hap"
+  },
+  "Ses04M_script03_2_M033": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session4/sentences/wav/Ses04M_script03_2/Ses04M_script03_2_M033.wav",
+    "length": 3.3899375,
+    "emo": "ang"
+  },
+  "Ses01F_script02_1_M024": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session1/sentences/wav/Ses01F_script02_1/Ses01F_script02_1_M024.wav",
+    "length": 12.86,
+    "emo": "neu"
+  },
+  "Ses01M_impro01_F021": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session1/sentences/wav/Ses01M_impro01/Ses01M_impro01_F021.wav",
+    "length": 4.9125,
+    "emo": "ang"
+  },
+  "Ses04F_script01_2_F010": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session4/sentences/wav/Ses04F_script01_2/Ses04F_script01_2_F010.wav",
+    "length": 5.57075,
+    "emo": "ang"
+  },
+  "Ses02F_impro07_F025": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session2/sentences/wav/Ses02F_impro07/Ses02F_impro07_F025.wav",
+    "length": 7.6401875,
+    "emo": "hap"
+  },
+  "Ses05F_script03_2_F032": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session5/sentences/wav/Ses05F_script03_2/Ses05F_script03_2_F032.wav",
+    "length": 2.17,
+    "emo": "ang"
+  },
+  "Ses02F_script01_1_M027": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session2/sentences/wav/Ses02F_script01_1/Ses02F_script01_1_M027.wav",
+    "length": 12.9615625,
+    "emo": "sad"
+  },
+  "Ses05F_script01_1_F005": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session5/sentences/wav/Ses05F_script01_1/Ses05F_script01_1_F005.wav",
+    "length": 1.8299375,
+    "emo": "sad"
+  },
+  "Ses03F_impro06_M002": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session3/sentences/wav/Ses03F_impro06/Ses03F_impro06_M002.wav",
+    "length": 6.808625,
+    "emo": "sad"
+  },
+  "Ses05F_script01_2_F017": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session5/sentences/wav/Ses05F_script01_2/Ses05F_script01_2_F017.wav",
+    "length": 1.66,
+    "emo": "ang"
+  },
+  "Ses03F_script01_1_M050": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session3/sentences/wav/Ses03F_script01_1/Ses03F_script01_1_M050.wav",
+    "length": 3.229625,
+    "emo": "neu"
+  },
+  "Ses05M_impro06_F008": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session5/sentences/wav/Ses05M_impro06/Ses05M_impro06_F008.wav",
+    "length": 7.11075,
+    "emo": "sad"
+  },
+  "Ses05M_impro03_F002": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session5/sentences/wav/Ses05M_impro03/Ses05M_impro03_F002.wav",
+    "length": 1.0199375,
+    "emo": "hap"
+  },
+  "Ses05M_impro07_M034": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session5/sentences/wav/Ses05M_impro07/Ses05M_impro07_M034.wav",
+    "length": 3.81,
+    "emo": "hap"
+  },
+  "Ses02F_script03_2_M038": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session2/sentences/wav/Ses02F_script03_2/Ses02F_script03_2_M038.wav",
+    "length": 1.25,
+    "emo": "ang"
+  },
+  "Ses04F_impro03_M030": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session4/sentences/wav/Ses04F_impro03/Ses04F_impro03_M030.wav",
+    "length": 3.1541875,
+    "emo": "neu"
+  },
+  "Ses02M_script01_1_M016": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session2/sentences/wav/Ses02M_script01_1/Ses02M_script01_1_M016.wav",
+    "length": 3.8799375,
+    "emo": "neu"
+  },
+  "Ses05M_script03_1_M032": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session5/sentences/wav/Ses05M_script03_1/Ses05M_script03_1_M032.wav",
+    "length": 3.18,
+    "emo": "hap"
+  },
+  "Ses01M_script03_2_M012": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session1/sentences/wav/Ses01M_script03_2/Ses01M_script03_2_M012.wav",
+    "length": 3.365,
+    "emo": "neu"
+  },
+  "Ses02F_impro04_M000": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session2/sentences/wav/Ses02F_impro04/Ses02F_impro04_M000.wav",
+    "length": 4.3659375,
+    "emo": "neu"
+  },
+  "Ses01M_script02_1_F009": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session1/sentences/wav/Ses01M_script02_1/Ses01M_script02_1_F009.wav",
+    "length": 2.28,
+    "emo": "hap"
+  },
+  "Ses04M_script03_2_M050": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session4/sentences/wav/Ses04M_script03_2/Ses04M_script03_2_M050.wav",
+    "length": 5.2,
+    "emo": "ang"
+  },
+  "Ses02F_script01_3_F016": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session2/sentences/wav/Ses02F_script01_3/Ses02F_script01_3_F016.wav",
+    "length": 8.6,
+    "emo": "hap"
+  },
+  "Ses02F_impro04_M013": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session2/sentences/wav/Ses02F_impro04/Ses02F_impro04_M013.wav",
+    "length": 13.15,
+    "emo": "neu"
+  },
+  "Ses01F_impro06_F024": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session1/sentences/wav/Ses01F_impro06/Ses01F_impro06_F024.wav",
+    "length": 6.8999375,
+    "emo": "sad"
+  },
+  "Ses03M_impro06_M026": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session3/sentences/wav/Ses03M_impro06/Ses03M_impro06_M026.wav",
+    "length": 9.46725,
+    "emo": "sad"
+  },
+  "Ses04F_script02_2_F011": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session4/sentences/wav/Ses04F_script02_2/Ses04F_script02_2_F011.wav",
+    "length": 3.3796875,
+    "emo": "ang"
+  },
+  "Ses04M_script03_2_F014": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session4/sentences/wav/Ses04M_script03_2/Ses04M_script03_2_F014.wav",
+    "length": 1.902375,
+    "emo": "ang"
+  },
+  "Ses05F_script01_3_M009": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session5/sentences/wav/Ses05F_script01_3/Ses05F_script01_3_M009.wav",
+    "length": 15.546,
+    "emo": "hap"
+  },
+  "Ses03F_impro04_M000": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session3/sentences/wav/Ses03F_impro04/Ses03F_impro04_M000.wav",
+    "length": 2.7965625,
+    "emo": "neu"
+  },
+  "Ses01F_script03_2_M016": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session1/sentences/wav/Ses01F_script03_2/Ses01F_script03_2_M016.wav",
+    "length": 3.3499375,
+    "emo": "neu"
+  },
+  "Ses03F_impro03_F012": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session3/sentences/wav/Ses03F_impro03/Ses03F_impro03_F012.wav",
+    "length": 3.41275,
+    "emo": "hap"
+  },
+  "Ses04M_script03_2_F028": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session4/sentences/wav/Ses04M_script03_2/Ses04M_script03_2_F028.wav",
+    "length": 6.27,
+    "emo": "ang"
+  },
+  "Ses03M_script03_2_F016": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session3/sentences/wav/Ses03M_script03_2/Ses03M_script03_2_F016.wav",
+    "length": 4.0474375,
+    "emo": "neu"
+  },
+  "Ses03F_script02_1_M021": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session3/sentences/wav/Ses03F_script02_1/Ses03F_script02_1_M021.wav",
+    "length": 6.9558125,
+    "emo": "hap"
+  },
+  "Ses01F_script01_1_F015": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session1/sentences/wav/Ses01F_script01_1/Ses01F_script01_1_F015.wav",
+    "length": 4.4914375,
+    "emo": "neu"
+  },
+  "Ses01M_impro06_M001": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session1/sentences/wav/Ses01M_impro06/Ses01M_impro06_M001.wav",
+    "length": 3.709125,
+    "emo": "sad"
+  },
+  "Ses02F_script01_1_M011": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session2/sentences/wav/Ses02F_script01_1/Ses02F_script01_1_M011.wav",
+    "length": 11.4499375,
+    "emo": "ang"
+  },
+  "Ses02M_script01_1_M036": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session2/sentences/wav/Ses02M_script01_1/Ses02M_script01_1_M036.wav",
+    "length": 5.0099375,
+    "emo": "sad"
+  },
+  "Ses04F_script03_2_F021": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session4/sentences/wav/Ses04F_script03_2/Ses04F_script03_2_F021.wav",
+    "length": 1.3199375,
+    "emo": "ang"
+  },
+  "Ses01F_impro05_F017": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session1/sentences/wav/Ses01F_impro05/Ses01F_impro05_F017.wav",
+    "length": 9.365,
+    "emo": "ang"
+  },
+  "Ses04M_impro01_M018": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session4/sentences/wav/Ses04M_impro01/Ses04M_impro01_M018.wav",
+    "length": 1.7765625,
+    "emo": "ang"
+  },
+  "Ses02M_script01_1_F021": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session2/sentences/wav/Ses02M_script01_1/Ses02M_script01_1_F021.wav",
+    "length": 5.18,
+    "emo": "neu"
+  },
+  "Ses03F_impro07_F013": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session3/sentences/wav/Ses03F_impro07/Ses03F_impro07_F013.wav",
+    "length": 5.189375,
+    "emo": "hap"
+  },
+  "Ses01F_script03_2_M004": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session1/sentences/wav/Ses01F_script03_2/Ses01F_script03_2_M004.wav",
+    "length": 4.23,
+    "emo": "neu"
+  },
+  "Ses02F_impro03_M019": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session2/sentences/wav/Ses02F_impro03/Ses02F_impro03_M019.wav",
+    "length": 8.5935,
+    "emo": "hap"
+  },
+  "Ses02F_impro07_F019": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session2/sentences/wav/Ses02F_impro07/Ses02F_impro07_F019.wav",
+    "length": 9.34,
+    "emo": "hap"
+  },
+  "Ses05M_script03_1_F001": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session5/sentences/wav/Ses05M_script03_1/Ses05M_script03_1_F001.wav",
+    "length": 3.4199375,
+    "emo": "hap"
+  },
+  "Ses03M_impro05a_M027": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session3/sentences/wav/Ses03M_impro05a/Ses03M_impro05a_M027.wav",
+    "length": 2.3199375,
+    "emo": "ang"
+  },
+  "Ses03F_impro06_F004": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session3/sentences/wav/Ses03F_impro06/Ses03F_impro06_F004.wav",
+    "length": 3.5378125,
+    "emo": "sad"
+  },
+  "Ses02F_script01_1_F026": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session2/sentences/wav/Ses02F_script01_1/Ses02F_script01_1_F026.wav",
+    "length": 3.07625,
+    "emo": "neu"
+  },
+  "Ses01M_script01_3_M004": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session1/sentences/wav/Ses01M_script01_3/Ses01M_script01_3_M004.wav",
+    "length": 2.2109375,
+    "emo": "neu"
+  },
+  "Ses04F_impro04_F018": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session4/sentences/wav/Ses04F_impro04/Ses04F_impro04_F018.wav",
+    "length": 6.8999375,
+    "emo": "ang"
+  },
+  "Ses02F_script02_2_F041": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session2/sentences/wav/Ses02F_script02_2/Ses02F_script02_2_F041.wav",
+    "length": 2.8899375,
+    "emo": "hap"
+  },
+  "Ses01M_impro05_M020": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session1/sentences/wav/Ses01M_impro05/Ses01M_impro05_M020.wav",
+    "length": 2.501125,
+    "emo": "ang"
+  },
+  "Ses02F_impro05_M000": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session2/sentences/wav/Ses02F_impro05/Ses02F_impro05_M000.wav",
+    "length": 4.6299375,
+    "emo": "neu"
+  },
+  "Ses02F_impro07_F022": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session2/sentences/wav/Ses02F_impro07/Ses02F_impro07_F022.wav",
+    "length": 11.33175,
+    "emo": "hap"
+  },
+  "Ses02M_impro03_M018": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session2/sentences/wav/Ses02M_impro03/Ses02M_impro03_M018.wav",
+    "length": 1.6475625,
+    "emo": "hap"
+  },
+  "Ses04F_script02_1_F013": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session4/sentences/wav/Ses04F_script02_1/Ses04F_script02_1_F013.wav",
+    "length": 7.8695625,
+    "emo": "ang"
+  },
+  "Ses03M_impro06_M024": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session3/sentences/wav/Ses03M_impro06/Ses03M_impro06_M024.wav",
+    "length": 2.57975,
+    "emo": "sad"
+  },
+  "Ses05F_script03_2_F040": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session5/sentences/wav/Ses05F_script03_2/Ses05F_script03_2_F040.wav",
+    "length": 7.27,
+    "emo": "ang"
+  },
+  "Ses05F_impro04_M031": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session5/sentences/wav/Ses05F_impro04/Ses05F_impro04_M031.wav",
+    "length": 4.0,
+    "emo": "neu"
+  },
+  "Ses04F_impro03_M031": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session4/sentences/wav/Ses04F_impro03/Ses04F_impro03_M031.wav",
+    "length": 0.98,
+    "emo": "neu"
+  },
+  "Ses05F_impro06_F019": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session5/sentences/wav/Ses05F_impro06/Ses05F_impro06_F019.wav",
+    "length": 5.1,
+    "emo": "sad"
+  },
+  "Ses02M_impro03_M005": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session2/sentences/wav/Ses02M_impro03/Ses02M_impro03_M005.wav",
+    "length": 3.2781875,
+    "emo": "hap"
+  },
+  "Ses02F_script02_2_F031": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session2/sentences/wav/Ses02F_script02_2/Ses02F_script02_2_F031.wav",
+    "length": 5.0235,
+    "emo": "sad"
+  },
+  "Ses01M_impro04_F015": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session1/sentences/wav/Ses01M_impro04/Ses01M_impro04_F015.wav",
+    "length": 2.28,
+    "emo": "neu"
+  },
+  "Ses02F_script02_2_F005": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session2/sentences/wav/Ses02F_script02_2/Ses02F_script02_2_F005.wav",
+    "length": 7.4399375,
+    "emo": "ang"
+  },
+  "Ses04M_impro03_M021": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session4/sentences/wav/Ses04M_impro03/Ses04M_impro03_M021.wav",
+    "length": 9.0799375,
+    "emo": "hap"
+  },
+  "Ses03M_script02_1_M040": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session3/sentences/wav/Ses03M_script02_1/Ses03M_script02_1_M040.wav",
+    "length": 6.7649375,
+    "emo": "hap"
+  },
+  "Ses01F_impro05_F025": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session1/sentences/wav/Ses01F_impro05/Ses01F_impro05_F025.wav",
+    "length": 3.1099375,
+    "emo": "ang"
+  },
+  "Ses04F_script03_2_F040": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session4/sentences/wav/Ses04F_script03_2/Ses04F_script03_2_F040.wav",
+    "length": 2.67975,
+    "emo": "ang"
+  },
+  "Ses01M_impro01_F007": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session1/sentences/wav/Ses01M_impro01/Ses01M_impro01_F007.wav",
+    "length": 3.4199375,
+    "emo": "ang"
+  },
+  "Ses05F_impro04_M020": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session5/sentences/wav/Ses05F_impro04/Ses05F_impro04_M020.wav",
+    "length": 16.67,
+    "emo": "neu"
+  },
+  "Ses02M_impro05_M000": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session2/sentences/wav/Ses02M_impro05/Ses02M_impro05_M000.wav",
+    "length": 1.281,
+    "emo": "neu"
+  },
+  "Ses03F_script01_2_M003": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session3/sentences/wav/Ses03F_script01_2/Ses03F_script01_2_M003.wav",
+    "length": 2.7155,
+    "emo": "neu"
+  },
+  "Ses03M_impro03_M033": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session3/sentences/wav/Ses03M_impro03/Ses03M_impro03_M033.wav",
+    "length": 2.16825,
+    "emo": "neu"
+  },
+  "Ses01M_script02_1_F017": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session1/sentences/wav/Ses01M_script02_1/Ses01M_script02_1_F017.wav",
+    "length": 9.0088125,
+    "emo": "ang"
+  },
+  "Ses03M_script02_2_F037": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session3/sentences/wav/Ses03M_script02_2/Ses03M_script02_2_F037.wav",
+    "length": 2.278125,
+    "emo": "sad"
+  },
+  "Ses04M_script03_1_F022": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session4/sentences/wav/Ses04M_script03_1/Ses04M_script03_1_F022.wav",
+    "length": 1.97,
+    "emo": "hap"
+  },
+  "Ses03M_impro08a_M008": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session3/sentences/wav/Ses03M_impro08a/Ses03M_impro08a_M008.wav",
+    "length": 4.5746875,
+    "emo": "neu"
+  },
+  "Ses04F_impro08_M015": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session4/sentences/wav/Ses04F_impro08/Ses04F_impro08_M015.wav",
+    "length": 11.55,
+    "emo": "ang"
+  },
+  "Ses04M_script02_2_M034": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session4/sentences/wav/Ses04M_script02_2/Ses04M_script02_2_M034.wav",
+    "length": 1.9499375,
+    "emo": "ang"
+  },
+  "Ses02M_impro06_F002": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session2/sentences/wav/Ses02M_impro06/Ses02M_impro06_F002.wav",
+    "length": 4.09,
+    "emo": "sad"
+  },
+  "Ses05F_script03_2_F035": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session5/sentences/wav/Ses05F_script03_2/Ses05F_script03_2_F035.wav",
+    "length": 4.0399375,
+    "emo": "ang"
+  },
+  "Ses01F_impro03_M023": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session1/sentences/wav/Ses01F_impro03/Ses01F_impro03_M023.wav",
+    "length": 3.6899375,
+    "emo": "hap"
+  },
+  "Ses05M_script02_1_M029": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session5/sentences/wav/Ses05M_script02_1/Ses05M_script02_1_M029.wav",
+    "length": 8.25,
+    "emo": "hap"
+  },
+  "Ses02M_script03_1_F002": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session2/sentences/wav/Ses02M_script03_1/Ses02M_script03_1_F002.wav",
+    "length": 2.70325,
+    "emo": "hap"
+  },
+  "Ses03M_impro05b_M021": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session3/sentences/wav/Ses03M_impro05b/Ses03M_impro05b_M021.wav",
+    "length": 1.73,
+    "emo": "ang"
+  },
+  "Ses02M_script01_3_F019": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session2/sentences/wav/Ses02M_script01_3/Ses02M_script01_3_F019.wav",
+    "length": 9.55475,
+    "emo": "sad"
+  },
+  "Ses01F_impro04_M020": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session1/sentences/wav/Ses01F_impro04/Ses01F_impro04_M020.wav",
+    "length": 1.92,
+    "emo": "neu"
+  },
+  "Ses04F_impro03_M047": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session4/sentences/wav/Ses04F_impro03/Ses04F_impro03_M047.wav",
+    "length": 5.98,
+    "emo": "neu"
+  },
+  "Ses01M_impro01_M031": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session1/sentences/wav/Ses01M_impro01/Ses01M_impro01_M031.wav",
+    "length": 2.67,
+    "emo": "ang"
+  },
+  "Ses04M_impro06_F007": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session4/sentences/wav/Ses04M_impro06/Ses04M_impro06_F007.wav",
+    "length": 5.5799375,
+    "emo": "sad"
+  },
+  "Ses01M_script03_2_F036": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session1/sentences/wav/Ses01M_script03_2/Ses01M_script03_2_F036.wav",
+    "length": 1.6599375,
+    "emo": "ang"
+  },
+  "Ses04F_script01_3_M027": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session4/sentences/wav/Ses04F_script01_3/Ses04F_script01_3_M027.wav",
+    "length": 3.6516875,
+    "emo": "sad"
+  },
+  "Ses05M_script02_1_M000": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session5/sentences/wav/Ses05M_script02_1/Ses05M_script02_1_M000.wav",
+    "length": 21.05,
+    "emo": "hap"
+  },
+  "Ses04M_script01_3_F023": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session4/sentences/wav/Ses04M_script01_3/Ses04M_script01_3_F023.wav",
+    "length": 2.2375,
+    "emo": "sad"
+  },
+  "Ses04F_impro04_F005": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session4/sentences/wav/Ses04F_impro04/Ses04F_impro04_F005.wav",
+    "length": 5.1599375,
+    "emo": "ang"
+  },
+  "Ses05F_impro03_F051": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session5/sentences/wav/Ses05F_impro03/Ses05F_impro03_F051.wav",
+    "length": 4.36,
+    "emo": "hap"
+  },
+  "Ses03M_script03_2_M014": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session3/sentences/wav/Ses03M_script03_2/Ses03M_script03_2_M014.wav",
+    "length": 4.9506875,
+    "emo": "ang"
+  },
+  "Ses03M_impro04_M004": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session3/sentences/wav/Ses03M_impro04/Ses03M_impro04_M004.wav",
+    "length": 1.74,
+    "emo": "ang"
+  },
+  "Ses01F_script02_1_M035": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session1/sentences/wav/Ses01F_script02_1/Ses01F_script02_1_M035.wav",
+    "length": 7.324,
+    "emo": "hap"
+  },
+  "Ses04F_script01_3_M026": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session4/sentences/wav/Ses04F_script01_3/Ses04F_script01_3_M026.wav",
+    "length": 5.3888125,
+    "emo": "sad"
+  },
+  "Ses01F_script02_2_F017": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session1/sentences/wav/Ses01F_script02_2/Ses01F_script02_2_F017.wav",
+    "length": 6.9499375,
+    "emo": "neu"
+  },
+  "Ses02F_impro08_F025": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session2/sentences/wav/Ses02F_impro08/Ses02F_impro08_F025.wav",
+    "length": 5.7369375,
+    "emo": "neu"
+  },
+  "Ses04M_impro04_F009": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session4/sentences/wav/Ses04M_impro04/Ses04M_impro04_F009.wav",
+    "length": 3.0399375,
+    "emo": "neu"
+  },
+  "Ses03M_impro02_M004": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session3/sentences/wav/Ses03M_impro02/Ses03M_impro02_M004.wav",
+    "length": 4.5565,
+    "emo": "sad"
+  },
+  "Ses02M_script01_2_F006": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session2/sentences/wav/Ses02M_script01_2/Ses02M_script01_2_F006.wav",
+    "length": 3.5799375,
+    "emo": "ang"
+  },
+  "Ses03M_impro02_F031": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session3/sentences/wav/Ses03M_impro02/Ses03M_impro02_F031.wav",
+    "length": 3.084125,
+    "emo": "sad"
+  },
+  "Ses01F_script03_1_M024": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session1/sentences/wav/Ses01F_script03_1/Ses01F_script03_1_M024.wav",
+    "length": 12.5849375,
+    "emo": "hap"
+  },
+  "Ses05F_impro03_M045": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session5/sentences/wav/Ses05F_impro03/Ses05F_impro03_M045.wav",
+    "length": 4.93,
+    "emo": "hap"
+  },
+  "Ses01M_script02_2_M023": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session1/sentences/wav/Ses01M_script02_2/Ses01M_script02_2_M023.wav",
+    "length": 13.865,
+    "emo": "neu"
+  },
+  "Ses04F_script01_1_M000": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session4/sentences/wav/Ses04F_script01_1/Ses04F_script01_1_M000.wav",
+    "length": 1.807125,
+    "emo": "neu"
+  },
+  "Ses03M_impro06_M020": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session3/sentences/wav/Ses03M_impro06/Ses03M_impro06_M020.wav",
+    "length": 3.9913125,
+    "emo": "sad"
+  },
+  "Ses04F_impro03_F001": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session4/sentences/wav/Ses04F_impro03/Ses04F_impro03_F001.wav",
+    "length": 4.1899375,
+    "emo": "hap"
+  },
+  "Ses05M_script02_2_F010": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session5/sentences/wav/Ses05M_script02_2/Ses05M_script02_2_F010.wav",
+    "length": 16.49,
+    "emo": "ang"
+  },
+  "Ses05F_impro03_M060": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session5/sentences/wav/Ses05F_impro03/Ses05F_impro03_M060.wav",
+    "length": 1.6,
+    "emo": "hap"
+  },
+  "Ses01M_impro07_M019": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session1/sentences/wav/Ses01M_impro07/Ses01M_impro07_M019.wav",
+    "length": 1.34,
+    "emo": "hap"
+  },
+  "Ses01F_script02_2_F023": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session1/sentences/wav/Ses01F_script02_2/Ses01F_script02_2_F023.wav",
+    "length": 2.3244375,
+    "emo": "neu"
+  },
+  "Ses05F_script02_1_M033": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session5/sentences/wav/Ses05F_script02_1/Ses05F_script02_1_M033.wav",
+    "length": 29.0465,
+    "emo": "hap"
+  },
+  "Ses05F_impro02_M010": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session5/sentences/wav/Ses05F_impro02/Ses05F_impro02_M010.wav",
+    "length": 2.98,
+    "emo": "ang"
+  },
+  "Ses01F_script02_1_M025": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session1/sentences/wav/Ses01F_script02_1/Ses01F_script02_1_M025.wav",
+    "length": 13.09225,
+    "emo": "neu"
+  },
+  "Ses01M_impro01_F022": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session1/sentences/wav/Ses01M_impro01/Ses01M_impro01_F022.wav",
+    "length": 10.6899375,
+    "emo": "ang"
+  },
+  "Ses04M_impro03_F009": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session4/sentences/wav/Ses04M_impro03/Ses04M_impro03_F009.wav",
+    "length": 4.5699375,
+    "emo": "hap"
+  },
+  "Ses03M_impro07_M003": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session3/sentences/wav/Ses03M_impro07/Ses03M_impro07_M003.wav",
+    "length": 3.86,
+    "emo": "hap"
+  },
+  "Ses01M_script03_1_F015": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session1/sentences/wav/Ses01M_script03_1/Ses01M_script03_1_F015.wav",
+    "length": 3.7699375,
+    "emo": "hap"
+  },
+  "Ses02M_impro08_M028": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session2/sentences/wav/Ses02M_impro08/Ses02M_impro08_M028.wav",
+    "length": 5.6884375,
+    "emo": "neu"
+  },
+  "Ses05F_impro06_M004": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session5/sentences/wav/Ses05F_impro06/Ses05F_impro06_M004.wav",
+    "length": 3.6299375,
+    "emo": "sad"
+  },
+  "Ses01F_script02_2_F043": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session1/sentences/wav/Ses01F_script02_2/Ses01F_script02_2_F043.wav",
+    "length": 3.8349375,
+    "emo": "hap"
+  },
+  "Ses03F_script01_1_F019": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session3/sentences/wav/Ses03F_script01_1/Ses03F_script01_1_F019.wav",
+    "length": 2.7916875,
+    "emo": "neu"
+  },
+  "Ses01F_impro02_F015": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session1/sentences/wav/Ses01F_impro02/Ses01F_impro02_F015.wav",
+    "length": 3.587875,
+    "emo": "sad"
+  },
+  "Ses04F_script03_1_F024": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session4/sentences/wav/Ses04F_script03_1/Ses04F_script03_1_F024.wav",
+    "length": 5.43,
+    "emo": "hap"
+  },
+  "Ses05F_impro08_F009": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session5/sentences/wav/Ses05F_impro08/Ses05F_impro08_F009.wav",
+    "length": 0.7799375,
+    "emo": "neu"
+  },
+  "Ses03F_script02_1_M038": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session3/sentences/wav/Ses03F_script02_1/Ses03F_script02_1_M038.wav",
+    "length": 10.992125,
+    "emo": "hap"
+  },
+  "Ses05F_script01_1_F028": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session5/sentences/wav/Ses05F_script01_1/Ses05F_script01_1_F028.wav",
+    "length": 2.8299375,
+    "emo": "neu"
+  },
+  "Ses05F_impro05_M009": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session5/sentences/wav/Ses05F_impro05/Ses05F_impro05_M009.wav",
+    "length": 8.6683125,
+    "emo": "neu"
+  },
+  "Ses01M_impro03_F023": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session1/sentences/wav/Ses01M_impro03/Ses01M_impro03_F023.wav",
+    "length": 7.78,
+    "emo": "hap"
+  },
+  "Ses05F_impro06_F008": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session5/sentences/wav/Ses05F_impro06/Ses05F_impro06_F008.wav",
+    "length": 2.36,
+    "emo": "sad"
+  },
+  "Ses03M_script01_3_M016": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session3/sentences/wav/Ses03M_script01_3/Ses03M_script01_3_M016.wav",
+    "length": 2.7173125,
+    "emo": "hap"
+  },
+  "Ses02F_impro06_F011": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session2/sentences/wav/Ses02F_impro06/Ses02F_impro06_F011.wav",
+    "length": 2.1599375,
+    "emo": "sad"
+  },
+  "Ses01F_script01_2_F007": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session1/sentences/wav/Ses01F_script01_2/Ses01F_script01_2_F007.wav",
+    "length": 8.8899375,
+    "emo": "ang"
+  },
+  "Ses02M_script01_2_M005": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session2/sentences/wav/Ses02M_script01_2/Ses02M_script01_2_M005.wav",
+    "length": 1.8199375,
+    "emo": "neu"
+  },
+  "Ses03M_impro06_M002": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session3/sentences/wav/Ses03M_impro06/Ses03M_impro06_M002.wav",
+    "length": 3.0421875,
+    "emo": "sad"
+  },
+  "Ses01M_impro05_F020": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session1/sentences/wav/Ses01M_impro05/Ses01M_impro05_F020.wav",
+    "length": 6.2599375,
+    "emo": "neu"
+  },
+  "Ses03M_impro01_F022": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session3/sentences/wav/Ses03M_impro01/Ses03M_impro01_F022.wav",
+    "length": 4.7190625,
+    "emo": "ang"
+  },
+  "Ses03F_script01_1_M036": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session3/sentences/wav/Ses03F_script01_1/Ses03F_script01_1_M036.wav",
+    "length": 3.8865,
+    "emo": "neu"
+  },
+  "Ses03M_impro07_M013": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session3/sentences/wav/Ses03M_impro07/Ses03M_impro07_M013.wav",
+    "length": 8.2,
+    "emo": "hap"
+  },
+  "Ses01M_script02_2_M029": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session1/sentences/wav/Ses01M_script02_2/Ses01M_script02_2_M029.wav",
+    "length": 4.4619375,
+    "emo": "neu"
+  },
+  "Ses02F_script03_2_F029": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session2/sentences/wav/Ses02F_script03_2/Ses02F_script03_2_F029.wav",
+    "length": 1.8399375,
+    "emo": "ang"
+  },
+  "Ses03M_impro05a_F021": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session3/sentences/wav/Ses03M_impro05a/Ses03M_impro05a_F021.wav",
+    "length": 1.2599375,
+    "emo": "neu"
+  },
+  "Ses04F_impro03_M001": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session4/sentences/wav/Ses04F_impro03/Ses04F_impro03_M001.wav",
+    "length": 6.68,
+    "emo": "neu"
+  },
+  "Ses01M_script03_1_M030": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session1/sentences/wav/Ses01M_script03_1/Ses01M_script03_1_M030.wav",
+    "length": 3.62,
+    "emo": "hap"
+  },
+  "Ses05M_impro01_F003": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session5/sentences/wav/Ses05M_impro01/Ses05M_impro01_F003.wav",
+    "length": 2.8,
+    "emo": "neu"
+  },
+  "Ses01F_impro04_M023": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session1/sentences/wav/Ses01F_impro04/Ses01F_impro04_M023.wav",
+    "length": 4.5974375,
+    "emo": "neu"
+  },
+  "Ses03F_script03_2_M026": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session3/sentences/wav/Ses03F_script03_2/Ses03F_script03_2_M026.wav",
+    "length": 4.6825,
+    "emo": "ang"
+  },
+  "Ses04F_impro02_F006": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session4/sentences/wav/Ses04F_impro02/Ses04F_impro02_F006.wav",
+    "length": 3.1299375,
+    "emo": "sad"
+  },
+  "Ses01M_script03_1_F019": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session1/sentences/wav/Ses01M_script03_1/Ses01M_script03_1_F019.wav",
+    "length": 3.3884375,
+    "emo": "hap"
+  },
+  "Ses03F_script03_2_M028": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session3/sentences/wav/Ses03F_script03_2/Ses03F_script03_2_M028.wav",
+    "length": 7.6924375,
+    "emo": "ang"
+  },
+  "Ses02F_script02_2_M013": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session2/sentences/wav/Ses02F_script02_2/Ses02F_script02_2_M013.wav",
+    "length": 3.2899375,
+    "emo": "neu"
+  },
+  "Ses02M_script03_2_F035": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session2/sentences/wav/Ses02M_script03_2/Ses02M_script03_2_F035.wav",
+    "length": 4.178875,
+    "emo": "ang"
+  },
+  "Ses04M_script02_1_M012": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session4/sentences/wav/Ses04M_script02_1/Ses04M_script02_1_M012.wav",
+    "length": 1.86,
+    "emo": "neu"
+  },
+  "Ses04F_script01_1_M028": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session4/sentences/wav/Ses04F_script01_1/Ses04F_script01_1_M028.wav",
+    "length": 4.3908125,
+    "emo": "ang"
+  },
+  "Ses02M_script03_1_F022": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session2/sentences/wav/Ses02M_script03_1/Ses02M_script03_1_F022.wav",
+    "length": 5.15125,
+    "emo": "hap"
+  },
+  "Ses02F_script03_1_M028": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session2/sentences/wav/Ses02F_script03_1/Ses02F_script03_1_M028.wav",
+    "length": 2.09,
+    "emo": "neu"
+  },
+  "Ses01M_impro05_F034": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session1/sentences/wav/Ses01M_impro05/Ses01M_impro05_F034.wav",
+    "length": 5.37,
+    "emo": "neu"
+  },
+  "Ses01M_script01_3_F014": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session1/sentences/wav/Ses01M_script01_3/Ses01M_script01_3_F014.wav",
+    "length": 2.0,
+    "emo": "hap"
+  },
+  "Ses04F_script01_1_F022": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session4/sentences/wav/Ses04F_script01_1/Ses04F_script01_1_F022.wav",
+    "length": 4.472125,
+    "emo": "ang"
+  },
+  "Ses03F_impro02_F035": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session3/sentences/wav/Ses03F_impro02/Ses03F_impro02_F035.wav",
+    "length": 3.504875,
+    "emo": "sad"
+  },
+  "Ses04F_script02_2_M019": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session4/sentences/wav/Ses04F_script02_2/Ses04F_script02_2_M019.wav",
+    "length": 1.8399375,
+    "emo": "neu"
+  },
+  "Ses04M_impro07_M012": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session4/sentences/wav/Ses04M_impro07/Ses04M_impro07_M012.wav",
+    "length": 5.98,
+    "emo": "hap"
+  },
+  "Ses03F_script03_1_F015": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session3/sentences/wav/Ses03F_script03_1/Ses03F_script03_1_F015.wav",
+    "length": 5.1,
+    "emo": "sad"
+  },
+  "Ses04F_impro03_F017": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session4/sentences/wav/Ses04F_impro03/Ses04F_impro03_F017.wav",
+    "length": 1.25,
+    "emo": "hap"
+  },
+  "Ses01M_script02_1_M009": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session1/sentences/wav/Ses01M_script02_1/Ses01M_script02_1_M009.wav",
+    "length": 1.87,
+    "emo": "neu"
+  },
+  "Ses04M_script02_2_M006": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session4/sentences/wav/Ses04M_script02_2/Ses04M_script02_2_M006.wav",
+    "length": 1.73,
+    "emo": "ang"
+  },
+  "Ses05M_script01_1_M034": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session5/sentences/wav/Ses05M_script01_1/Ses05M_script01_1_M034.wav",
+    "length": 4.2099375,
+    "emo": "ang"
+  },
+  "Ses04M_impro05_F013": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session4/sentences/wav/Ses04M_impro05/Ses04M_impro05_F013.wav",
+    "length": 1.8299375,
+    "emo": "neu"
+  },
+  "Ses05F_impro03_M058": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session5/sentences/wav/Ses05F_impro03/Ses05F_impro03_M058.wav",
+    "length": 1.27,
+    "emo": "hap"
+  },
+  "Ses02F_impro08_F012": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session2/sentences/wav/Ses02F_impro08/Ses02F_impro08_F012.wav",
+    "length": 12.8788125,
+    "emo": "neu"
+  },
+  "Ses02M_impro03_M014": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session2/sentences/wav/Ses02M_impro03/Ses02M_impro03_M014.wav",
+    "length": 1.4699375,
+    "emo": "hap"
+  },
+  "Ses05F_impro02_F008": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session5/sentences/wav/Ses05F_impro02/Ses05F_impro02_F008.wav",
+    "length": 2.68,
+    "emo": "sad"
+  },
+  "Ses04F_impro07_F009": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session4/sentences/wav/Ses04F_impro07/Ses04F_impro07_F009.wav",
+    "length": 2.3799375,
+    "emo": "hap"
+  },
+  "Ses04F_impro06_M008": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session4/sentences/wav/Ses04F_impro06/Ses04F_impro06_M008.wav",
+    "length": 2.3199375,
+    "emo": "sad"
+  },
+  "Ses02M_impro02_M013": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session2/sentences/wav/Ses02M_impro02/Ses02M_impro02_M013.wav",
+    "length": 8.6159375,
+    "emo": "sad"
+  },
+  "Ses05F_script02_1_F011": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session5/sentences/wav/Ses05F_script02_1/Ses05F_script02_1_F011.wav",
+    "length": 2.2875,
+    "emo": "neu"
+  },
+  "Ses05M_script01_1_F014": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session5/sentences/wav/Ses05M_script01_1/Ses05M_script01_1_F014.wav",
+    "length": 6.66,
+    "emo": "ang"
+  },
+  "Ses03M_impro06_M019": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session3/sentences/wav/Ses03M_impro06/Ses03M_impro06_M019.wav",
+    "length": 8.34775,
+    "emo": "sad"
+  },
+  "Ses02M_script01_3_M031": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session2/sentences/wav/Ses02M_script01_3/Ses02M_script01_3_M031.wav",
+    "length": 12.466125,
+    "emo": "sad"
+  },
+  "Ses05M_script03_2_M010": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session5/sentences/wav/Ses05M_script03_2/Ses05M_script03_2_M010.wav",
+    "length": 1.8899375,
+    "emo": "neu"
+  },
+  "Ses03M_script02_2_M030": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session3/sentences/wav/Ses03M_script02_2/Ses03M_script02_2_M030.wav",
+    "length": 14.876,
+    "emo": "ang"
+  },
+  "Ses02F_impro03_F021": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session2/sentences/wav/Ses02F_impro03/Ses02F_impro03_F021.wav",
+    "length": 11.08525,
+    "emo": "hap"
+  },
+  "Ses03M_script02_2_F001": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session3/sentences/wav/Ses03M_script02_2/Ses03M_script02_2_F001.wav",
+    "length": 2.1709375,
+    "emo": "ang"
+  },
+  "Ses04F_impro06_M012": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session4/sentences/wav/Ses04F_impro06/Ses04F_impro06_M012.wav",
+    "length": 1.2399375,
+    "emo": "neu"
+  },
+  "Ses01F_impro04_F030": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session1/sentences/wav/Ses01F_impro04/Ses01F_impro04_F030.wav",
+    "length": 3.1849375,
+    "emo": "ang"
+  },
+  "Ses04F_impro01_F021": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session4/sentences/wav/Ses04F_impro01/Ses04F_impro01_F021.wav",
+    "length": 3.6,
+    "emo": "ang"
+  },
+  "Ses05F_script02_2_M031": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session5/sentences/wav/Ses05F_script02_2/Ses05F_script02_2_M031.wav",
+    "length": 4.1435,
+    "emo": "sad"
+  },
+  "Ses05F_impro05_M012": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session5/sentences/wav/Ses05F_impro05/Ses05F_impro05_M012.wav",
+    "length": 1.7599375,
+    "emo": "neu"
+  },
+  "Ses02M_script01_2_F013": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session2/sentences/wav/Ses02M_script01_2/Ses02M_script01_2_F013.wav",
+    "length": 3.6399375,
+    "emo": "sad"
+  },
+  "Ses05F_script03_2_M026": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session5/sentences/wav/Ses05F_script03_2/Ses05F_script03_2_M026.wav",
+    "length": 5.3,
+    "emo": "ang"
+  },
+  "Ses04M_script02_1_F010": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session4/sentences/wav/Ses04M_script02_1/Ses04M_script02_1_F010.wav",
+    "length": 1.788625,
+    "emo": "ang"
+  },
+  "Ses02M_script01_1_M028": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session2/sentences/wav/Ses02M_script01_1/Ses02M_script01_1_M028.wav",
+    "length": 7.3,
+    "emo": "sad"
+  },
+  "Ses05F_impro07_M001": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session5/sentences/wav/Ses05F_impro07/Ses05F_impro07_M001.wav",
+    "length": 2.93,
+    "emo": "hap"
+  },
+  "Ses01F_script03_2_F026": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session1/sentences/wav/Ses01F_script03_2/Ses01F_script03_2_F026.wav",
+    "length": 5.85,
+    "emo": "ang"
+  },
+  "Ses05F_impro06_F006": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session5/sentences/wav/Ses05F_impro06/Ses05F_impro06_F006.wav",
+    "length": 4.33,
+    "emo": "sad"
+  },
+  "Ses04M_impro08_M023": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session4/sentences/wav/Ses04M_impro08/Ses04M_impro08_M023.wav",
+    "length": 2.9599375,
+    "emo": "neu"
+  },
+  "Ses02M_impro08_M029": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session2/sentences/wav/Ses02M_impro08/Ses02M_impro08_M029.wav",
+    "length": 10.872625,
+    "emo": "neu"
+  },
+  "Ses03M_impro05b_F027": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session3/sentences/wav/Ses03M_impro05b/Ses03M_impro05b_F027.wav",
+    "length": 1.8,
+    "emo": "neu"
+  },
+  "Ses02F_impro05_F006": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session2/sentences/wav/Ses02F_impro05/Ses02F_impro05_F006.wav",
+    "length": 8.3899375,
+    "emo": "ang"
+  },
+  "Ses02F_impro08_M006": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session2/sentences/wav/Ses02F_impro08/Ses02F_impro08_M006.wav",
+    "length": 1.8661875,
+    "emo": "neu"
+  },
+  "Ses01M_impro06_F025": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session1/sentences/wav/Ses01M_impro06/Ses01M_impro06_F025.wav",
+    "length": 1.8570625,
+    "emo": "neu"
+  },
+  "Ses01M_script02_2_M043": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session1/sentences/wav/Ses01M_script02_2/Ses01M_script02_2_M043.wav",
+    "length": 4.332625,
+    "emo": "sad"
+  },
+  "Ses04F_script03_2_M045": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session4/sentences/wav/Ses04F_script03_2/Ses04F_script03_2_M045.wav",
+    "length": 7.4,
+    "emo": "ang"
+  },
+  "Ses03M_script01_1_M002": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session3/sentences/wav/Ses03M_script01_1/Ses03M_script01_1_M002.wav",
+    "length": 9.25,
+    "emo": "sad"
+  },
+  "Ses05F_impro03_M030": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session5/sentences/wav/Ses05F_impro03/Ses05F_impro03_M030.wav",
+    "length": 2.3,
+    "emo": "hap"
+  },
+  "Ses02F_impro07_F017": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session2/sentences/wav/Ses02F_impro07/Ses02F_impro07_F017.wav",
+    "length": 6.9444375,
+    "emo": "hap"
+  },
+  "Ses01M_script03_2_F041": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session1/sentences/wav/Ses01M_script03_2/Ses01M_script03_2_F041.wav",
+    "length": 18.92,
+    "emo": "ang"
+  },
+  "Ses05M_impro03_F013": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session5/sentences/wav/Ses05M_impro03/Ses05M_impro03_F013.wav",
+    "length": 2.18,
+    "emo": "hap"
+  },
+  "Ses01M_script01_3_M024": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session1/sentences/wav/Ses01M_script01_3/Ses01M_script01_3_M024.wav",
+    "length": 4.6189375,
+    "emo": "sad"
+  },
+  "Ses05M_impro08_F015": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session5/sentences/wav/Ses05M_impro08/Ses05M_impro08_F015.wav",
+    "length": 1.0,
+    "emo": "neu"
+  },
+  "Ses05F_impro03_M011": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session5/sentences/wav/Ses05F_impro03/Ses05F_impro03_M011.wav",
+    "length": 5.2990625,
+    "emo": "hap"
+  },
+  "Ses04M_script03_2_M014": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session4/sentences/wav/Ses04M_script03_2/Ses04M_script03_2_M014.wav",
+    "length": 2.814125,
+    "emo": "ang"
+  },
+  "Ses02F_script02_1_M024": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session2/sentences/wav/Ses02F_script02_1/Ses02F_script02_1_M024.wav",
+    "length": 6.9599375,
+    "emo": "hap"
+  },
+  "Ses04F_impro01_F010": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session4/sentences/wav/Ses04F_impro01/Ses04F_impro01_F010.wav",
+    "length": 6.7799375,
+    "emo": "ang"
+  },
+  "Ses04F_script01_3_F024": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session4/sentences/wav/Ses04F_script01_3/Ses04F_script01_3_F024.wav",
+    "length": 2.1675,
+    "emo": "sad"
+  },
+  "Ses04F_impro04_M022": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session4/sentences/wav/Ses04F_impro04/Ses04F_impro04_M022.wav",
+    "length": 6.0299375,
+    "emo": "neu"
+  },
+  "Ses03F_impro02_F043": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session3/sentences/wav/Ses03F_impro02/Ses03F_impro02_F043.wav",
+    "length": 2.2874375,
+    "emo": "sad"
+  },
+  "Ses03M_script02_1_M035": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session3/sentences/wav/Ses03M_script02_1/Ses03M_script02_1_M035.wav",
+    "length": 5.6069375,
+    "emo": "hap"
+  },
+  "Ses04M_impro08_M012": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session4/sentences/wav/Ses04M_impro08/Ses04M_impro08_M012.wav",
+    "length": 8.6499375,
+    "emo": "neu"
+  },
+  "Ses04M_impro07_F017": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session4/sentences/wav/Ses04M_impro07/Ses04M_impro07_F017.wav",
+    "length": 2.3,
+    "emo": "hap"
+  },
+  "Ses01M_script01_2_M007": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session1/sentences/wav/Ses01M_script01_2/Ses01M_script01_2_M007.wav",
+    "length": 2.5199375,
+    "emo": "neu"
+  },
+  "Ses05M_impro07_M003": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session5/sentences/wav/Ses05M_impro07/Ses05M_impro07_M003.wav",
+    "length": 2.354875,
+    "emo": "hap"
+  },
+  "Ses05F_script03_1_F025": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session5/sentences/wav/Ses05F_script03_1/Ses05F_script03_1_F025.wav",
+    "length": 6.1099375,
+    "emo": "hap"
+  },
+  "Ses05M_script02_2_M040": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session5/sentences/wav/Ses05M_script02_2/Ses05M_script02_2_M040.wav",
+    "length": 2.30775,
+    "emo": "hap"
+  },
+  "Ses01M_impro05_M021": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session1/sentences/wav/Ses01M_impro05/Ses01M_impro05_M021.wav",
+    "length": 5.85,
+    "emo": "ang"
+  },
+  "Ses04M_impro03_M023": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session4/sentences/wav/Ses04M_impro03/Ses04M_impro03_M023.wav",
+    "length": 10.797125,
+    "emo": "hap"
+  },
+  "Ses05M_impro03_F010": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session5/sentences/wav/Ses05M_impro03/Ses05M_impro03_F010.wav",
+    "length": 1.31,
+    "emo": "hap"
+  },
+  "Ses05F_script01_3_F020": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session5/sentences/wav/Ses05F_script01_3/Ses05F_script01_3_F020.wav",
+    "length": 2.583875,
+    "emo": "sad"
+  },
+  "Ses05F_impro05_F020": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session5/sentences/wav/Ses05F_impro05/Ses05F_impro05_F020.wav",
+    "length": 8.6299375,
+    "emo": "ang"
+  },
+  "Ses01F_impro03_F022": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session1/sentences/wav/Ses01F_impro03/Ses01F_impro03_F022.wav",
+    "length": 2.2524375,
+    "emo": "neu"
+  },
+  "Ses05M_script03_1_M023": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session5/sentences/wav/Ses05M_script03_1/Ses05M_script03_1_M023.wav",
+    "length": 6.5615625,
+    "emo": "hap"
+  },
+  "Ses02M_impro03_M030": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session2/sentences/wav/Ses02M_impro03/Ses02M_impro03_M030.wav",
+    "length": 3.9460625,
+    "emo": "hap"
+  },
+  "Ses01M_script02_1_F023": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session1/sentences/wav/Ses01M_script02_1/Ses01M_script02_1_F023.wav",
+    "length": 2.2099375,
+    "emo": "ang"
+  },
+  "Ses02M_impro07_F025": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session2/sentences/wav/Ses02M_impro07/Ses02M_impro07_F025.wav",
+    "length": 5.816625,
+    "emo": "hap"
+  },
+  "Ses02M_impro03_F008": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session2/sentences/wav/Ses02M_impro03/Ses02M_impro03_F008.wav",
+    "length": 4.2253125,
+    "emo": "hap"
+  },
+  "Ses01M_impro03_F019": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session1/sentences/wav/Ses01M_impro03/Ses01M_impro03_F019.wav",
+    "length": 3.61,
+    "emo": "hap"
+  },
+  "Ses02F_script03_2_M009": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session2/sentences/wav/Ses02F_script03_2/Ses02F_script03_2_M009.wav",
+    "length": 4.15,
+    "emo": "neu"
+  },
+  "Ses04M_impro06_M004": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session4/sentences/wav/Ses04M_impro06/Ses04M_impro06_M004.wav",
+    "length": 1.3499375,
+    "emo": "sad"
+  },
+  "Ses01M_script03_1_F014": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session1/sentences/wav/Ses01M_script03_1/Ses01M_script03_1_F014.wav",
+    "length": 2.866375,
+    "emo": "hap"
+  },
+  "Ses01F_script03_2_M010": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session1/sentences/wav/Ses01F_script03_2/Ses01F_script03_2_M010.wav",
+    "length": 2.6899375,
+    "emo": "neu"
+  },
+  "Ses02M_script03_1_M011": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session2/sentences/wav/Ses02M_script03_1/Ses02M_script03_1_M011.wav",
+    "length": 9.1010625,
+    "emo": "hap"
+  },
+  "Ses05M_impro07_M033": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session5/sentences/wav/Ses05M_impro07/Ses05M_impro07_M033.wav",
+    "length": 1.0199375,
+    "emo": "hap"
+  },
+  "Ses02M_impro07_F011": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session2/sentences/wav/Ses02M_impro07/Ses02M_impro07_F011.wav",
+    "length": 1.61,
+    "emo": "hap"
+  },
+  "Ses04F_impro07_F078": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session4/sentences/wav/Ses04F_impro07/Ses04F_impro07_F078.wav",
+    "length": 3.0599375,
+    "emo": "hap"
+  },
+  "Ses05F_impro08_F028": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session5/sentences/wav/Ses05F_impro08/Ses05F_impro08_F028.wav",
+    "length": 1.8,
+    "emo": "neu"
+  },
+  "Ses01F_script03_2_F005": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session1/sentences/wav/Ses01F_script03_2/Ses01F_script03_2_F005.wav",
+    "length": 2.0324375,
+    "emo": "neu"
+  },
+  "Ses05M_script02_2_F000": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session5/sentences/wav/Ses05M_script02_2/Ses05M_script02_2_F000.wav",
+    "length": 1.61,
+    "emo": "neu"
+  },
+  "Ses03M_script03_2_M046": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session3/sentences/wav/Ses03M_script03_2/Ses03M_script03_2_M046.wav",
+    "length": 1.76375,
+    "emo": "ang"
+  },
+  "Ses05M_impro03_F018": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session5/sentences/wav/Ses05M_impro03/Ses05M_impro03_F018.wav",
+    "length": 1.15,
+    "emo": "hap"
+  },
+  "Ses04M_impro08_F024": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session4/sentences/wav/Ses04M_impro08/Ses04M_impro08_F024.wav",
+    "length": 2.49,
+    "emo": "hap"
+  },
+  "Ses02F_script03_1_M019": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session2/sentences/wav/Ses02F_script03_1/Ses02F_script03_1_M019.wav",
+    "length": 3.28,
+    "emo": "hap"
+  },
+  "Ses02M_script02_2_F038": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session2/sentences/wav/Ses02M_script02_2/Ses02M_script02_2_F038.wav",
+    "length": 7.3499375,
+    "emo": "sad"
+  },
+  "Ses05M_impro07_M021": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session5/sentences/wav/Ses05M_impro07/Ses05M_impro07_M021.wav",
+    "length": 1.4499375,
+    "emo": "hap"
+  },
+  "Ses01F_script01_3_M001": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session1/sentences/wav/Ses01F_script01_3/Ses01F_script01_3_M001.wav",
+    "length": 2.80475,
+    "emo": "neu"
+  },
+  "Ses02M_impro06_M023": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session2/sentences/wav/Ses02M_impro06/Ses02M_impro06_M023.wav",
+    "length": 2.9179375,
+    "emo": "sad"
+  },
+  "Ses04F_script03_2_M043": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session4/sentences/wav/Ses04F_script03_2/Ses04F_script03_2_M043.wav",
+    "length": 1.3199375,
+    "emo": "ang"
+  },
+  "Ses03M_script01_3_M041": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session3/sentences/wav/Ses03M_script01_3/Ses03M_script01_3_M041.wav",
+    "length": 4.7810625,
+    "emo": "sad"
+  },
+  "Ses01M_impro05_F002": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session1/sentences/wav/Ses01M_impro05/Ses01M_impro05_F002.wav",
+    "length": 3.5274375,
+    "emo": "neu"
+  },
+  "Ses04F_impro05_F005": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session4/sentences/wav/Ses04F_impro05/Ses04F_impro05_F005.wav",
+    "length": 3.4,
+    "emo": "ang"
+  },
+  "Ses04F_impro03_M019": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session4/sentences/wav/Ses04F_impro03/Ses04F_impro03_M019.wav",
+    "length": 2.67,
+    "emo": "neu"
+  },
+  "Ses04M_script03_2_M053": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session4/sentences/wav/Ses04M_script03_2/Ses04M_script03_2_M053.wav",
+    "length": 1.8999375,
+    "emo": "ang"
+  },
+  "Ses01F_script01_1_M040": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session1/sentences/wav/Ses01F_script01_1/Ses01F_script01_1_M040.wav",
+    "length": 3.3799375,
+    "emo": "neu"
+  },
+  "Ses01F_impro03_F002": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session1/sentences/wav/Ses01F_impro03/Ses01F_impro03_F002.wav",
+    "length": 2.5699375,
+    "emo": "hap"
+  },
+  "Ses03M_impro05a_F002": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session3/sentences/wav/Ses03M_impro05a/Ses03M_impro05a_F002.wav",
+    "length": 4.8799375,
+    "emo": "neu"
+  },
+  "Ses02F_script03_2_F035": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session2/sentences/wav/Ses02F_script03_2/Ses02F_script03_2_F035.wav",
+    "length": 4.6299375,
+    "emo": "ang"
+  },
+  "Ses05F_impro02_M035": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session5/sentences/wav/Ses05F_impro02/Ses05F_impro02_M035.wav",
+    "length": 2.1299375,
+    "emo": "sad"
+  },
+  "Ses05M_script03_2_M045": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session5/sentences/wav/Ses05M_script03_2/Ses05M_script03_2_M045.wav",
+    "length": 6.0099375,
+    "emo": "ang"
+  },
+  "Ses05F_impro08_F003": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session5/sentences/wav/Ses05F_impro08/Ses05F_impro08_F003.wav",
+    "length": 2.73,
+    "emo": "neu"
+  },
+  "Ses05F_impro06_M024": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session5/sentences/wav/Ses05F_impro06/Ses05F_impro06_M024.wav",
+    "length": 1.98,
+    "emo": "neu"
+  },
+  "Ses02M_impro02_F008": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session2/sentences/wav/Ses02M_impro02/Ses02M_impro02_F008.wav",
+    "length": 3.027,
+    "emo": "sad"
+  },
+  "Ses01M_script01_2_F013": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session1/sentences/wav/Ses01M_script01_2/Ses01M_script01_2_F013.wav",
+    "length": 4.6499375,
+    "emo": "ang"
+  },
+  "Ses03M_impro06_F015": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session3/sentences/wav/Ses03M_impro06/Ses03M_impro06_F015.wav",
+    "length": 2.166,
+    "emo": "sad"
+  },
+  "Ses05M_impro05_F000": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session5/sentences/wav/Ses05M_impro05/Ses05M_impro05_F000.wav",
+    "length": 1.56,
+    "emo": "neu"
+  },
+  "Ses03F_script02_1_M019": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session3/sentences/wav/Ses03F_script02_1/Ses03F_script02_1_M019.wav",
+    "length": 1.801625,
+    "emo": "neu"
+  },
+  "Ses04M_script03_2_F052": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session4/sentences/wav/Ses04M_script03_2/Ses04M_script03_2_F052.wav",
+    "length": 1.5299375,
+    "emo": "ang"
+  },
+  "Ses05F_impro04_F008": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session5/sentences/wav/Ses05F_impro04/Ses05F_impro04_F008.wav",
+    "length": 5.91,
+    "emo": "ang"
+  },
+  "Ses03M_impro07_F014": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session3/sentences/wav/Ses03M_impro07/Ses03M_impro07_F014.wav",
+    "length": 2.7699375,
+    "emo": "hap"
+  },
+  "Ses03M_impro05a_M014": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session3/sentences/wav/Ses03M_impro05a/Ses03M_impro05a_M014.wav",
+    "length": 1.5224375,
+    "emo": "ang"
+  },
+  "Ses03M_impro02_M026": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session3/sentences/wav/Ses03M_impro02/Ses03M_impro02_M026.wav",
+    "length": 4.0590625,
+    "emo": "sad"
+  },
+  "Ses05M_impro07_M032": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session5/sentences/wav/Ses05M_impro07/Ses05M_impro07_M032.wav",
+    "length": 1.33,
+    "emo": "hap"
+  },
+  "Ses02F_impro06_M003": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session2/sentences/wav/Ses02F_impro06/Ses02F_impro06_M003.wav",
+    "length": 1.33,
+    "emo": "neu"
+  },
+  "Ses04M_impro06_F002": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session4/sentences/wav/Ses04M_impro06/Ses04M_impro06_F002.wav",
+    "length": 5.28,
+    "emo": "sad"
+  },
+  "Ses02F_script02_2_M003": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session2/sentences/wav/Ses02F_script02_2/Ses02F_script02_2_M003.wav",
+    "length": 2.4199375,
+    "emo": "neu"
+  },
+  "Ses02M_impro03_M021": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session2/sentences/wav/Ses02M_impro03/Ses02M_impro03_M021.wav",
+    "length": 4.4399375,
+    "emo": "hap"
+  },
+  "Ses01M_script01_1_F024": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session1/sentences/wav/Ses01M_script01_1/Ses01M_script01_1_F024.wav",
+    "length": 13.05,
+    "emo": "ang"
+  },
+  "Ses02F_script01_3_F025": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session2/sentences/wav/Ses02F_script01_3/Ses02F_script01_3_F025.wav",
+    "length": 1.7741875,
+    "emo": "sad"
+  },
+  "Ses01F_script02_2_F000": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session1/sentences/wav/Ses01F_script02_2/Ses01F_script02_2_F000.wav",
+    "length": 2.478125,
+    "emo": "neu"
+  },
+  "Ses05M_impro08_M002": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session5/sentences/wav/Ses05M_impro08/Ses05M_impro08_M002.wav",
+    "length": 1.66,
+    "emo": "neu"
+  },
+  "Ses05M_impro05_M005": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session5/sentences/wav/Ses05M_impro05/Ses05M_impro05_M005.wav",
+    "length": 2.9499375,
+    "emo": "neu"
+  },
+  "Ses05M_script03_1_M021": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session5/sentences/wav/Ses05M_script03_1/Ses05M_script03_1_M021.wav",
+    "length": 6.6,
+    "emo": "hap"
+  },
+  "Ses02M_script02_2_M015": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session2/sentences/wav/Ses02M_script02_2/Ses02M_script02_2_M015.wav",
+    "length": 11.85,
+    "emo": "neu"
+  },
+  "Ses04F_script02_2_F005": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session4/sentences/wav/Ses04F_script02_2/Ses04F_script02_2_F005.wav",
+    "length": 8.1860625,
+    "emo": "ang"
+  },
+  "Ses03M_impro07_M022": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session3/sentences/wav/Ses03M_impro07/Ses03M_impro07_M022.wav",
+    "length": 3.81,
+    "emo": "hap"
+  },
+  "Ses02F_impro03_M022": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session2/sentences/wav/Ses02F_impro03/Ses02F_impro03_M022.wav",
+    "length": 3.4935,
+    "emo": "hap"
+  },
+  "Ses05M_impro08_F009": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session5/sentences/wav/Ses05M_impro08/Ses05M_impro08_F009.wav",
+    "length": 3.8399375,
+    "emo": "neu"
+  },
+  "Ses04M_impro03_F002": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session4/sentences/wav/Ses04M_impro03/Ses04M_impro03_F002.wav",
+    "length": 3.8199375,
+    "emo": "hap"
+  },
+  "Ses05F_script01_1_M013": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session5/sentences/wav/Ses05F_script01_1/Ses05F_script01_1_M013.wav",
+    "length": 6.8,
+    "emo": "ang"
+  },
+  "Ses01M_impro07_M011": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session1/sentences/wav/Ses01M_impro07/Ses01M_impro07_M011.wav",
+    "length": 3.1375,
+    "emo": "hap"
+  },
+  "Ses03F_impro07_F031": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session3/sentences/wav/Ses03F_impro07/Ses03F_impro07_F031.wav",
+    "length": 3.10925,
+    "emo": "neu"
+  },
+  "Ses03M_script02_1_M016": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session3/sentences/wav/Ses03M_script02_1/Ses03M_script02_1_M016.wav",
+    "length": 5.7718125,
+    "emo": "hap"
+  },
+  "Ses01M_script01_1_M021": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session1/sentences/wav/Ses01M_script01_1/Ses01M_script01_1_M021.wav",
+    "length": 3.05,
+    "emo": "ang"
+  },
+  "Ses04F_impro07_M077": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session4/sentences/wav/Ses04F_impro07/Ses04F_impro07_M077.wav",
+    "length": 4.81,
+    "emo": "neu"
+  },
+  "Ses04F_impro07_M045": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session4/sentences/wav/Ses04F_impro07/Ses04F_impro07_M045.wav",
+    "length": 3.14,
+    "emo": "hap"
+  },
+  "Ses04M_impro04_M021": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session4/sentences/wav/Ses04M_impro04/Ses04M_impro04_M021.wav",
+    "length": 4.4199375,
+    "emo": "neu"
+  },
+  "Ses04F_script01_3_M004": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session4/sentences/wav/Ses04F_script01_3/Ses04F_script01_3_M004.wav",
+    "length": 1.17,
+    "emo": "ang"
+  },
+  "Ses04F_impro05_F018": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session4/sentences/wav/Ses04F_impro05/Ses04F_impro05_F018.wav",
+    "length": 3.0399375,
+    "emo": "ang"
+  },
+  "Ses05F_impro05_M001": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session5/sentences/wav/Ses05F_impro05/Ses05F_impro05_M001.wav",
+    "length": 2.14,
+    "emo": "neu"
+  },
+  "Ses02M_impro08_M008": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session2/sentences/wav/Ses02M_impro08/Ses02M_impro08_M008.wav",
+    "length": 3.392625,
+    "emo": "neu"
+  },
+  "Ses01M_script02_1_M005": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session1/sentences/wav/Ses01M_script02_1/Ses01M_script02_1_M005.wav",
+    "length": 10.7425,
+    "emo": "hap"
+  },
+  "Ses04F_script02_2_M047": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session4/sentences/wav/Ses04F_script02_2/Ses04F_script02_2_M047.wav",
+    "length": 1.98,
+    "emo": "neu"
+  },
+  "Ses05M_script01_3_M039": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session5/sentences/wav/Ses05M_script01_3/Ses05M_script01_3_M039.wav",
+    "length": 2.28,
+    "emo": "sad"
+  },
+  "Ses01F_script01_3_M026": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session1/sentences/wav/Ses01F_script01_3/Ses01F_script01_3_M026.wav",
+    "length": 3.211625,
+    "emo": "sad"
+  },
+  "Ses03F_impro06_F003": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session3/sentences/wav/Ses03F_impro06/Ses03F_impro06_F003.wav",
+    "length": 5.673875,
+    "emo": "sad"
+  },
+  "Ses04F_script02_2_M040": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session4/sentences/wav/Ses04F_script02_2/Ses04F_script02_2_M040.wav",
+    "length": 3.035625,
+    "emo": "sad"
+  },
+  "Ses05M_script01_3_F006": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session5/sentences/wav/Ses05M_script01_3/Ses05M_script01_3_F006.wav",
+    "length": 3.55,
+    "emo": "neu"
+  },
+  "Ses03M_impro08a_M020": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session3/sentences/wav/Ses03M_impro08a/Ses03M_impro08a_M020.wav",
+    "length": 4.8901875,
+    "emo": "neu"
+  },
+  "Ses03M_impro02_M016": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session3/sentences/wav/Ses03M_impro02/Ses03M_impro02_M016.wav",
+    "length": 3.1636875,
+    "emo": "sad"
+  },
+  "Ses01F_script01_1_M023": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session1/sentences/wav/Ses01F_script01_1/Ses01F_script01_1_M023.wav",
+    "length": 2.291375,
+    "emo": "neu"
+  },
+  "Ses02F_impro08_F005": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session2/sentences/wav/Ses02F_impro08/Ses02F_impro08_F005.wav",
+    "length": 8.114625,
+    "emo": "neu"
+  },
+  "Ses03F_script02_2_F036": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session3/sentences/wav/Ses03F_script02_2/Ses03F_script02_2_F036.wav",
+    "length": 4.8489375,
+    "emo": "sad"
+  },
+  "Ses03M_impro06_M011": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session3/sentences/wav/Ses03M_impro06/Ses03M_impro06_M011.wav",
+    "length": 5.329875,
+    "emo": "sad"
+  },
+  "Ses04F_script03_1_M009": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session4/sentences/wav/Ses04F_script03_1/Ses04F_script03_1_M009.wav",
+    "length": 2.0799375,
+    "emo": "neu"
+  },
+  "Ses01M_script01_3_M034": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session1/sentences/wav/Ses01M_script01_3/Ses01M_script01_3_M034.wav",
+    "length": 14.25,
+    "emo": "sad"
+  },
+  "Ses03M_script01_3_M037": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session3/sentences/wav/Ses03M_script01_3/Ses03M_script01_3_M037.wav",
+    "length": 11.8874375,
+    "emo": "sad"
+  },
+  "Ses02F_script01_3_F014": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session2/sentences/wav/Ses02F_script01_3/Ses02F_script01_3_F014.wav",
+    "length": 1.8799375,
+    "emo": "hap"
+  },
+  "Ses05M_script03_1_F015": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session5/sentences/wav/Ses05M_script03_1/Ses05M_script03_1_F015.wav",
+    "length": 3.6999375,
+    "emo": "neu"
+  },
+  "Ses02F_impro07_F013": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session2/sentences/wav/Ses02F_impro07/Ses02F_impro07_F013.wav",
+    "length": 3.3,
+    "emo": "hap"
+  },
+  "Ses05F_script03_2_F012": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session5/sentences/wav/Ses05F_script03_2/Ses05F_script03_2_F012.wav",
+    "length": 2.3799375,
+    "emo": "neu"
+  },
+  "Ses03F_script02_1_M013": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session3/sentences/wav/Ses03F_script02_1/Ses03F_script02_1_M013.wav",
+    "length": 5.2445,
+    "emo": "hap"
+  },
+  "Ses03M_impro06_F012": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session3/sentences/wav/Ses03M_impro06/Ses03M_impro06_F012.wav",
+    "length": 2.3120625,
+    "emo": "sad"
+  },
+  "Ses04M_script03_2_F001": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session4/sentences/wav/Ses04M_script03_2/Ses04M_script03_2_F001.wav",
+    "length": 6.317,
+    "emo": "hap"
+  },
+  "Ses04F_impro07_F070": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session4/sentences/wav/Ses04F_impro07/Ses04F_impro07_F070.wav",
+    "length": 3.5099375,
+    "emo": "hap"
+  },
+  "Ses03M_impro05b_F006": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session3/sentences/wav/Ses03M_impro05b/Ses03M_impro05b_F006.wav",
+    "length": 1.0399375,
+    "emo": "neu"
+  },
+  "Ses02F_impro06_F009": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session2/sentences/wav/Ses02F_impro06/Ses02F_impro06_F009.wav",
+    "length": 2.1099375,
+    "emo": "sad"
+  },
+  "Ses03F_impro08_M009": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session3/sentences/wav/Ses03F_impro08/Ses03F_impro08_M009.wav",
+    "length": 2.8899375,
+    "emo": "ang"
+  },
+  "Ses05M_script03_1_F031": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session5/sentences/wav/Ses05M_script03_1/Ses05M_script03_1_F031.wav",
+    "length": 1.9838125,
+    "emo": "neu"
+  },
+  "Ses04F_impro02_M004": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session4/sentences/wav/Ses04F_impro02/Ses04F_impro02_M004.wav",
+    "length": 8.652875,
+    "emo": "sad"
+  },
+  "Ses01M_impro03_F007": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session1/sentences/wav/Ses01M_impro03/Ses01M_impro03_F007.wav",
+    "length": 4.33,
+    "emo": "hap"
+  },
+  "Ses05F_script01_3_M024": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session5/sentences/wav/Ses05F_script01_3/Ses05F_script01_3_M024.wav",
+    "length": 3.9459375,
+    "emo": "sad"
+  },
+  "Ses05F_impro08_M020": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session5/sentences/wav/Ses05F_impro08/Ses05F_impro08_M020.wav",
+    "length": 2.93,
+    "emo": "neu"
+  },
+  "Ses05F_script02_2_F018": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session5/sentences/wav/Ses05F_script02_2/Ses05F_script02_2_F018.wav",
+    "length": 1.8378125,
+    "emo": "sad"
+  },
+  "Ses01F_script02_2_M006": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session1/sentences/wav/Ses01F_script02_2/Ses01F_script02_2_M006.wav",
+    "length": 6.8899375,
+    "emo": "neu"
+  },
+  "Ses02M_impro05_F011": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session2/sentences/wav/Ses02M_impro05/Ses02M_impro05_F011.wav",
+    "length": 11.142625,
+    "emo": "neu"
+  },
+  "Ses03F_impro07_F012": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session3/sentences/wav/Ses03F_impro07/Ses03F_impro07_F012.wav",
+    "length": 2.1378125,
+    "emo": "hap"
+  },
+  "Ses02M_impro07_F020": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session2/sentences/wav/Ses02M_impro07/Ses02M_impro07_F020.wav",
+    "length": 3.37,
+    "emo": "hap"
+  },
+  "Ses04M_script02_1_F012": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session4/sentences/wav/Ses04M_script02_1/Ses04M_script02_1_F012.wav",
+    "length": 2.798375,
+    "emo": "ang"
+  },
+  "Ses03M_impro02_F033": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session3/sentences/wav/Ses03M_impro02/Ses03M_impro02_F033.wav",
+    "length": 4.6759375,
+    "emo": "sad"
+  },
+  "Ses02F_script02_2_M038": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session2/sentences/wav/Ses02F_script02_2/Ses02F_script02_2_M038.wav",
+    "length": 5.33,
+    "emo": "sad"
+  },
+  "Ses02M_impro03_F028": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session2/sentences/wav/Ses02M_impro03/Ses02M_impro03_F028.wav",
+    "length": 5.308875,
+    "emo": "hap"
+  },
+  "Ses03M_impro02_F025": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session3/sentences/wav/Ses03M_impro02/Ses03M_impro02_F025.wav",
+    "length": 2.785625,
+    "emo": "sad"
+  },
+  "Ses02M_script03_2_M033": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session2/sentences/wav/Ses02M_script03_2/Ses02M_script03_2_M033.wav",
+    "length": 2.134625,
+    "emo": "neu"
+  },
+  "Ses03M_script03_2_M008": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session3/sentences/wav/Ses03M_script03_2/Ses03M_script03_2_M008.wav",
+    "length": 2.9245,
+    "emo": "ang"
+  },
+  "Ses01M_impro03_F005": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session1/sentences/wav/Ses01M_impro03/Ses01M_impro03_F005.wav",
+    "length": 7.2099375,
+    "emo": "hap"
+  },
+  "Ses05M_impro06_M003": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session5/sentences/wav/Ses05M_impro06/Ses05M_impro06_M003.wav",
+    "length": 10.74,
+    "emo": "sad"
+  },
+  "Ses05F_impro06_M021": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session5/sentences/wav/Ses05F_impro06/Ses05F_impro06_M021.wav",
+    "length": 1.6399375,
+    "emo": "neu"
+  },
+  "Ses01M_script03_2_F040": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session1/sentences/wav/Ses01M_script03_2/Ses01M_script03_2_F040.wav",
+    "length": 4.8974375,
+    "emo": "ang"
+  },
+  "Ses03M_script01_3_M027": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session3/sentences/wav/Ses03M_script01_3/Ses03M_script01_3_M027.wav",
+    "length": 5.5173125,
+    "emo": "sad"
+  },
+  "Ses03M_script03_2_F042": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session3/sentences/wav/Ses03M_script03_2/Ses03M_script03_2_F042.wav",
+    "length": 6.958125,
+    "emo": "ang"
+  },
+  "Ses05F_impro03_F001": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session5/sentences/wav/Ses05F_impro03/Ses05F_impro03_F001.wav",
+    "length": 1.8799375,
+    "emo": "hap"
+  },
+  "Ses05M_script03_2_F040": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session5/sentences/wav/Ses05M_script03_2/Ses05M_script03_2_F040.wav",
+    "length": 2.3799375,
+    "emo": "ang"
+  },
+  "Ses02F_impro08_F023": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session2/sentences/wav/Ses02F_impro08/Ses02F_impro08_F023.wav",
+    "length": 10.05,
+    "emo": "neu"
+  },
+  "Ses02M_script02_2_M038": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session2/sentences/wav/Ses02M_script02_2/Ses02M_script02_2_M038.wav",
+    "length": 5.92,
+    "emo": "sad"
+  },
+  "Ses04M_script03_2_F030": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session4/sentences/wav/Ses04M_script03_2/Ses04M_script03_2_F030.wav",
+    "length": 2.85,
+    "emo": "ang"
+  },
+  "Ses02M_script02_1_M001": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session2/sentences/wav/Ses02M_script02_1/Ses02M_script02_1_M001.wav",
+    "length": 4.4199375,
+    "emo": "hap"
+  },
+  "Ses05F_impro04_M009": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session5/sentences/wav/Ses05F_impro04/Ses05F_impro04_M009.wav",
+    "length": 4.09,
+    "emo": "neu"
+  },
+  "Ses04F_impro03_M028": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session4/sentences/wav/Ses04F_impro03/Ses04F_impro03_M028.wav",
+    "length": 1.2099375,
+    "emo": "neu"
+  },
+  "Ses04F_impro01_M005": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session4/sentences/wav/Ses04F_impro01/Ses04F_impro01_M005.wav",
+    "length": 1.71,
+    "emo": "ang"
+  },
+  "Ses04M_script03_1_F006": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session4/sentences/wav/Ses04M_script03_1/Ses04M_script03_1_F006.wav",
+    "length": 1.85,
+    "emo": "hap"
+  },
+  "Ses05M_script01_1_M033": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session5/sentences/wav/Ses05M_script01_1/Ses05M_script01_1_M033.wav",
+    "length": 4.6299375,
+    "emo": "ang"
+  },
+  "Ses03M_impro05b_M015": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session3/sentences/wav/Ses03M_impro05b/Ses03M_impro05b_M015.wav",
+    "length": 2.74,
+    "emo": "ang"
+  },
+  "Ses05M_script01_1_F022": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session5/sentences/wav/Ses05M_script01_1/Ses05M_script01_1_F022.wav",
+    "length": 15.07,
+    "emo": "ang"
+  },
+  "Ses02M_script02_2_M019": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session2/sentences/wav/Ses02M_script02_2/Ses02M_script02_2_M019.wav",
+    "length": 9.37,
+    "emo": "hap"
+  },
+  "Ses01M_script03_1_M028": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session1/sentences/wav/Ses01M_script03_1/Ses01M_script03_1_M028.wav",
+    "length": 14.306625,
+    "emo": "hap"
+  },
+  "Ses03M_impro07_M006": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session3/sentences/wav/Ses03M_impro07/Ses03M_impro07_M006.wav",
+    "length": 2.8174375,
+    "emo": "hap"
+  },
+  "Ses04F_script02_1_M037": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session4/sentences/wav/Ses04F_script02_1/Ses04F_script02_1_M037.wav",
+    "length": 5.15525,
+    "emo": "hap"
+  },
+  "Ses05M_script02_2_F030": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session5/sentences/wav/Ses05M_script02_2/Ses05M_script02_2_F030.wav",
+    "length": 1.5799375,
+    "emo": "sad"
+  },
+  "Ses01F_impro01_F014": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session1/sentences/wav/Ses01F_impro01/Ses01F_impro01_F014.wav",
+    "length": 5.07,
+    "emo": "neu"
+  },
+  "Ses03F_script01_3_F008": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session3/sentences/wav/Ses03F_script01_3/Ses03F_script01_3_F008.wav",
+    "length": 4.06575,
+    "emo": "sad"
+  },
+  "Ses03M_impro07_M005": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session3/sentences/wav/Ses03M_impro07/Ses03M_impro07_M005.wav",
+    "length": 1.8899375,
+    "emo": "hap"
+  },
+  "Ses04F_script02_1_F021": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session4/sentences/wav/Ses04F_script02_1/Ses04F_script02_1_F021.wav",
+    "length": 1.68,
+    "emo": "ang"
+  },
+  "Ses03F_impro07_M034": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session3/sentences/wav/Ses03F_impro07/Ses03F_impro07_M034.wav",
+    "length": 1.9268125,
+    "emo": "hap"
+  },
+  "Ses01F_script02_2_M046": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session1/sentences/wav/Ses01F_script02_2/Ses01F_script02_2_M046.wav",
+    "length": 1.8901875,
+    "emo": "hap"
+  },
+  "Ses02F_script02_2_F024": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session2/sentences/wav/Ses02F_script02_2/Ses02F_script02_2_F024.wav",
+    "length": 0.87,
+    "emo": "sad"
+  },
+  "Ses04F_script01_3_M030": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session4/sentences/wav/Ses04F_script01_3/Ses04F_script01_3_M030.wav",
+    "length": 7.4484375,
+    "emo": "sad"
+  },
+  "Ses02M_impro08_M011": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session2/sentences/wav/Ses02M_impro08/Ses02M_impro08_M011.wav",
+    "length": 9.5263125,
+    "emo": "neu"
+  },
+  "Ses05F_impro03_M041": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session5/sentences/wav/Ses05F_impro03/Ses05F_impro03_M041.wav",
+    "length": 2.33,
+    "emo": "hap"
+  },
+  "Ses03M_script02_2_M028": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session3/sentences/wav/Ses03M_script02_2/Ses03M_script02_2_M028.wav",
+    "length": 3.1438125,
+    "emo": "ang"
+  },
+  "Ses02F_script01_3_M010": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session2/sentences/wav/Ses02F_script01_3/Ses02F_script01_3_M010.wav",
+    "length": 9.5299375,
+    "emo": "hap"
+  },
+  "Ses03F_impro07_M013": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session3/sentences/wav/Ses03F_impro07/Ses03F_impro07_M013.wav",
+    "length": 4.4120625,
+    "emo": "hap"
+  },
+  "Ses04M_script01_3_M022": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session4/sentences/wav/Ses04M_script01_3/Ses04M_script01_3_M022.wav",
+    "length": 5.0773125,
+    "emo": "sad"
+  },
+  "Ses04F_script02_2_F021": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session4/sentences/wav/Ses04F_script02_2/Ses04F_script02_2_F021.wav",
+    "length": 5.713625,
+    "emo": "sad"
+  },
+  "Ses05M_script01_1b_M020": {
+    "wav": "/gpfsscratch/rech/nou/uzn19yk/IEMOCAP/IEMOCAP_full_release//Session5/sentences/wav/Ses05M_script01_1b/Ses05M_script01_1b_M020.wav",
+    "length": 2.5899375,
+    "emo": "ang"
+  }
+}

@@ -15,6 +15,8 @@ import os
 import sys
 import speechbrain as sb
 import torchaudio.transforms as T
+import torchaudio
+from tqdm import tqdm
 from hyperpyyaml import load_hyperpyyaml
 import torch
 
@@ -160,21 +162,16 @@ def dataio_prep(hparams):
     @sb.utils.data_pipeline.provides("sig")
     def audio_pipeline(wav):
         sig = sb.dataio.dataio.read_audio(wav)
+        info = torchaudio.info(wav)
+        sig = sb.dataio.dataio.read_audio(wav)
         if sig.ndim ==2:
             sig = torch.mean(sig, axis=1)
-        else : 
-            print("mono audio")
-        if "cafe" in wav : 
-            sig =resampler(sig)
-        elif "IEMOCAP" in wav or "crema" in wav : 
-            sig = sig
-        elif "ASVP" in wav : 
-            sig = sig
-        else : 
-            sig=resampler44(sig)
+        resampled = torchaudio.transforms.Resample(
+            info.sample_rate, 16000,
+        )(sig)
 
 
-        return sig
+        return resampled
 
 
 
@@ -324,18 +321,15 @@ if __name__ == "__main__":
     # Load the best checkpoint for evaluation
     checkpoints = emo_id_brain.checkpointer.list_checkpoints()
     print(len(checkpoints))
-    for ind, ck in enumerate(checkpoints) : 
+    for ind, ck in tqdm(enumerate(checkpoints)) : 
         ckpt_trace = str(ck.path).split("/")[-1]
         order = ordered_dict[ckpt_trace]
-        if order%20==0 : 
 
-            print(order)
-            emo_id_brain.checkpointer.load_checkpoint(ck)
-            hparams["train_logger"].log_stats(
-                    {"Checkpoint order": order},)
-            test_stats = emo_id_brain.evaluate(
-                test_set=datasets["test"],
-                min_key="error_rate",
-                test_loader_kwargs=hparams["dataloader_options"],
-            )
-            print(test_stats)
+        emo_id_brain.checkpointer.load_checkpoint(ck)
+        hparams["train_logger"].log_stats(
+                {"Checkpoint order": order},)
+        test_stats = emo_id_brain.evaluate(
+            test_set=datasets["test"],
+            min_key="error_rate",
+            test_loader_kwargs=hparams["dataloader_options"],
+        )
